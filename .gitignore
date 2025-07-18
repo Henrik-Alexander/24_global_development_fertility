@@ -1,0 +1,21 @@
+
+# Paths
+raw/
+data/
+figures/
+
+# Filt tpes
+*.Rda
+*.csv
+*.xlsx
+*.html
+*.svg
+*.pdf
+.Rdata
+.DS_Store
+.quarto
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
