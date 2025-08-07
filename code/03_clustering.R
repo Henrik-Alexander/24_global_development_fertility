@@ -19,6 +19,9 @@ library(segmented)
 
 analysis <- FALSE
 
+# Load the functions
+source("code/functions.R")
+
 # Load the data
 load("data/analysis.Rda")
 

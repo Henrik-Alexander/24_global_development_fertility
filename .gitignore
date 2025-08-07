@@ -6,6 +6,7 @@ figures/
 
 # Filt tpes
 *.Rda
+
 #*.csv
 *.xlsx
 *.html
