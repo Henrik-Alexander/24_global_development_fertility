@@ -13,10 +13,10 @@ library(readxl)
 # Load the functions
 source("code/functions.R")
 
-
 # Structure
 # 1. Load the life tables from WPP 2024
 # 2. Estimate the Human Life Indicator
+# 3. Load the fertility data
 
 # 1. Load the life tables from WPP 2024 ------------
 
@@ -93,45 +93,73 @@ write.csv(hli_b, file="data/Hli_both_wpp2025.csv")
 
 # 3. Estimate the total fertility rate TFR ----
 
+estimate_tfr <- FALSE 
 
-# World Population Prospects ASFRs (downloaded: 15.07.2025)
-# https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/EXCEL_FILES/3_Fertility/WPP2024_FERT_F01_FERTILITY_RATES_BY_SINGLE_AGE_OF_MOTHER.xlsx
+if (estimate_tfr) {
+    
+  # World Population Prospects ASFRs (downloaded: 15.07.2025)
+  # https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/EXCEL_FILES/3_Fertility/WPP2024_FERT_F01_FERTILITY_RATES_BY_SINGLE_AGE_OF_MOTHER.xlsx
+  
+  # The loading is pretty slow, because obs=22728
+  first_run <- TRUE
+  
+  path_wpp24_ltb <- "data/cleaned_life_table_b.Rda"
+  
+  
+  # Find the file for the WPP life tables
+  path_wpp24_asfr_raw <- list.files("raw", pattern = "FERTILITY_RATES_BY_5", full.names=TRUE)
+  
+  
+  if (is.null(path_wpp24_asfr_raw)) {
+    stop("WPP ASFRs are not saved under ./raw/! Plrease download from https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/EXCEL_FILES/3_Fertility/WPP2024_FERT_F01_FERTILITY_RATES_BY_SINGLE_AGE_OF_MOTHER.xlsx")
+  }
+  
+  # Load the WPP ASFRs saved in raw
+  asfr <- data.table(read_excel(path=path_wpp24_asfr_raw, sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 16))
+  
+  # Rename
+  setnames(asfr, old="Region, subregion, country or area *", new="region")
+  
+  # Estimate the TFRs
+  asfr_columns <- paste(seq(10, 50, by=5), seq(14, 54, by=5), sep="-")
+  ages <- seq(12.5, 52.5, by=5)
+  asfr[, (asfr_columns) := lapply(.SD, as.numeric), .SDcols=asfr_columns]
+  asfr[, TFR := rowSums((5*.SD)/1000), .SDcols=asfr_columns]
+  asfr[, MAC := rowSums(ages*.SD)/rowSums(.SD), .SDcols=asfr_columns]
+  
+  # Select the tFR data
+  tfr <- asfr[, .(region, Year, TFR, MAC)]
+  
+  # Save the data
+  save(tfr, file="data/tfr_wpp2024.Rda")
 
-# The loading is pretty slow, because obs=22728
-first_run <- TRUE
-
-path_wpp24_ltb <- "data/cleaned_life_table_b.Rda"
-
-
-# Find the file for the WPP life tables
-path_wpp24_asfr_raw <- list.files("raw", pattern = "FERTILITY", full.names=TRUE)
-
-
-if (is.null(path_wpp24_asfr_raw)) {
-  stop("WPP ASFRs are not saved under ./raw/! Plrease download from https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/EXCEL_FILES/3_Fertility/WPP2024_FERT_F01_FERTILITY_RATES_BY_SINGLE_AGE_OF_MOTHER.xlsx")
+} else {
+  
+  # Find the file for the WPP life tables
+  path_wpp24_asfr_raw <- list.files("raw", pattern = "DEMOGRAPHIC_INDICATORS", full.names=TRUE)
+  
+  # Demographic Indicators
+  wpp24 <- data.table(read_excel(path=path_wpp24_asfr_raw, sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 16))
+  
+  # Rename
+  setnames(wpp24,
+           old= c("Region, subregion, country or area *", "Total Fertility Rate (live births per woman)", "Mean Age Childbearing (years)", "Male Life Expectancy at Birth (years)", "Female Life Expectancy at Birth (years)", "Life Expectancy at Birth, both sexes (years)"),
+           new=c("region", "tfr", "mac", "e0_m", "e0_f", "e0_b"))
+  
+  # Select the important columns
+  wpp24 <- wpp24[, .(region, Year, tfr, mac, e0_m, e0_f, e0_b)]
+  
+  # Make the columns numeric
+  numeric_columns <- c("tfr", "mac", "e0_m", "e0_f", "e0_b")
+  wpp24[, (numeric_columns) := lapply(.SD, as.numeric), .SDcols=numeric_columns]
+  
+  
 }
-
-# Load the WPP ASFRs saved in raw
-asfr <- data.table(read_excel(path=path_wpp24_asfr_raw, sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 16))
-
-# Rename
-setnames(asfr, old="Region, subregion, country or area *", new="region")
-
-# Estimate the TFRs
-asfr_columns <- paste(15:49)
-asfr[, (asfr_columns) := lapply(.SD, as.numeric), .SDcols=asfr_columns]
-asfr[, TFR := rowSums(.SD/1000), .SDcols=asfr_columns]
-
-# Select the tFR data
-tfr <- asfr[, .(TFR, Year, region)]
-
-# Save the data
-save(tfr, file="data/tfr_wpp2024.Rda")
 
 ## Merge the data ----------------------------------
 
 # Create the analysis data
-analysis <- merge(tfr, hli_b, by=c("Year", "region"))
+analysis <- merge(wpp24, hli_b, by=c("Year", "region"))
 
 # Filter the non-missing observations
 analsis <- na.omit(analysis)
@@ -146,7 +174,23 @@ locations <- locations[, c("Location", "LocTypeName", "GeoRegName", "SDGRegName"
 analysis <- merge(analysis, locations, by.x="region", by.y="Location", all.x=TRUE, all.y=FALSE)
 
 # Remove empty rows
-analysis <- analysis[!is.na(TFR)]
+analysis <- analysis[!is.na(tfr)]
+
+
+### Create a tempo-adjusted TFR ------------------
+
+analysis[, .(delta_TFR = shift(tfr)-tfr, delta_MAC = shift(mac)-mac), by = .(SDGRegName, region)] %>% 
+  ggplot(aes(x=delta_MAC, y=delta_TFR)) +
+  geom_hline(yintercept=0) +
+  geom_vline(xintercept=0) +
+  geom_point() +
+  geom_smooth()
+
+ggplot(analysis, aes(Year, mac, group=region, colour=region)) +
+  geom_line(alpha=0.2) +
+  facet_wrap(~SDGRegName) +
+  guides(colour="none")
+
 
 # Save the analysis data
 save(analysis, file="data/analysis.Rda")

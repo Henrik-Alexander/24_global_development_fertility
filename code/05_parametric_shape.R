@@ -97,7 +97,7 @@ regression_models <- function(country="Germany", df=analysis) {
          lty=1, 
          col=cols,
          lwd=2)
-  
+  grid()
   dev.off()
   
   # Bundle the results
@@ -110,7 +110,6 @@ regression_models <- function(country="Germany", df=analysis) {
   return(results)
 
 }
-
 
 ### Run the calculations ========================
 
