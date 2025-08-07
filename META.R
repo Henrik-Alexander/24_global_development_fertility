@@ -17,7 +17,8 @@ set.seed(1789)
 # 0. Install the packages --------------------------------
 
 # Packages to install
-packages <- c("traj", "clustra", "tidyverse", "data.table", "segmented", "readxl", "zoo", "svglite")
+packages <- c("traj", "clustra", "tidyverse", "data.table",
+              "segmented", "readxl", "zoo", "svglite", "TraMineR")
 install.packages(packages)
 
 # 1. Create the folder structure -------------------------
