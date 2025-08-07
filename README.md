@@ -13,9 +13,13 @@ and the [single-year life tables](https://population.un.org/wpp/assets/Excel%20F
 
 ## ./code: 
 
-- code/01_data_preperation.R: 
-- code/02_descriptives.R:
-- code/03_clustering.R:
+- [Data preperation](code/01_data_preperation.R): The data is loaded, cleaned and stored.
+- [Descriptivie statistics](code/02_descriptives.R): The raw data is described.
+- [Breakpoint analysis](code/03_clustering.R): Country pattern are described using segmented linear regression.
+- [Sequence analysis](code/04_sequence_analysis.R): Countries are clustered using sequence analysis.
+- [Parametric shape](code/05_parametric_shape.R): The parametric shape is captured with polynomial regression models.
+
+
 
 - code/functions.R: Helper functions
 - code/graphics.R: Sets the graphic style
@@ -36,4 +40,4 @@ This folder is used for storing the manipulated data created with the ./code fil
 ## ./tables:
 
 ## ./figures:
-This folder contains the figures
+This folder contains the figures.
