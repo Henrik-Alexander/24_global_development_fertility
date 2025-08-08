@@ -8,19 +8,18 @@
 
 # Structure:
 # 1. Breakpoint analysis
-# 1. Clustra
-# 2. Traj
-# 3. Singular Value Decomposition
 
-library(clustra)
-library(traj)
 library(reshape2)
 library(segmented)
+library(tidyverse)
 
-analysis <- FALSE
+analyse <- FALSE
 
 # Load the functions
 source("code/functions.R")
+
+# Set the graphic scheme
+source("code/graphics.R")
 
 # Load the data
 load("data/analysis.Rda")
@@ -31,7 +30,7 @@ analysis <- analysis[analysis$LocTypeName=="Country/Area", ]
 ## 1. Breakpoint analysis -------------------
 
 
-if (analysis) {
+if (analyse) {
   
   # Create a list that contains data for each country
   analysis_list <- split(analysis, by="region")
@@ -133,45 +132,13 @@ breakpoints <- analysis |>
 plot_breakpoints +
   geom_linerange(data=breakpoints, aes(x=HLI, linetype=breakpoints), ymin=0, ymax=2.1, alpha=0.5)
 
+# Lo
 slopes <- analysis |> 
   dplyr::select(region, starts_with("slopes_"), tidyselect::starts_with("breakpoints_"), nr_breakpoints) |> 
   pivot_longer(cols=starts_with("slopes_"), names_to="slopes", names_prefix="slopes_", values_to="slope") |> 
   filter(!is.na(slope)) |> 
   unique()
 
-stop()
-
-## 2. Cluster with clustra ------------------
-
-if (analysis) {
-  
-  # Create a separate dataset for clustra
-  df_clustra <- analysis
-  
-  # Rename columns for clustra
-  setnames(df_clustra,
-           old=c("region", "Year", "TFR"),
-           new=c("id", "time", "response"))
-  
-  # Perhaps needs a year 0 -> using the minimum TFR for that
-  df_clustra[, min_tfr := min(tfr), by = .(id)]
-  
-  # Run the clustering algorithm
-  clustra(data=df_clustra, k=4, maxdf=30, conv=c(10, 0), mccores=1, verbose=TRUE)
-
-}
-
-## 2. Cluster with traj -------------------
-
-# 
-
-
-## 3. SVD ---------------------------------
-
-# Create TFR matrices
-acast(analysis[, c("TFR", "region", "Year")], TFR ~ Year ~ region, unique)
-
-# SVD for TFRs
 
 
 ### END ###################################
