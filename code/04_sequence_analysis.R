@@ -8,6 +8,7 @@
 
 library(TraMineR)
 library(cluster)
+library(tidyverse)
 
 # Load the data
 load("data/analysis.Rda")
@@ -26,11 +27,10 @@ analysis$state_fertility <- cut(analysis$TFR,
                                 labels = c("lowest low", "low", "replacement", "high", "very high"),
                                 include.lowest = T)
 
-
 # States for development
 analysis$state_development <- cut(analysis$HLI,
                                   breaks = quantile(analysis$HLI, probs = seq(0, 1, by=0.25)),
-                                  labels = seq(1:4),
+                                  labels = paste("HLI", c("low", "medium", "high", "very high"), sep="_"),
                                   include.lowest = T)
 
 # States for change in TFR
@@ -52,7 +52,7 @@ ggplot(analysis, aes(x=tfr_change, y=hli_change, group=region, colour=SDGRegName
 analysis$state_slope <- ifelse(analysis$tfr_change*analysis$hli_change>0, "positive", "negative")
 
 # Plot the slops
-ggplot(data=analysis, aes(x=HLI, y=TFR, colour=state_slope)) +
+ggplot(data=analysis, aes(x=HLI, y=tfr, colour=state_slope)) +
   geom_point(alpha=0.2) +
   facet_wrap(~SDGRegName)
 
@@ -69,12 +69,14 @@ analysis %>%
 analysis$state <- paste(analysis$state_development, analysis$state_slope)
 
 # PIvot wider
-df_seq <- pivot_wider(analysis[!is.na(analysis$state_slope), ], names_from=Year, values_from=state)
+df_seq <- pivot_wider(analysis[!is.na(analysis$state_slope), c("Year", "region", "state")], names_from=Year, values_from=state)
 
 # Define the sequence data
-seq_obj <- seqdef(data=df_seq, var=match(colnames(df_seq), paste(1950:2025)))
+seq_obj <- seqdef(data=df_seq[, !(names(df_seq)=="region")], var=match(colnames(df_seq), paste(1950:2025)))
 
 # 3. Descriptives ===============================
+
+pdf(file="figures/sequence_analysis_overview.pdf", height=20, width=25)
 
 par(mfrow=c(2, 2))
 
@@ -90,8 +92,12 @@ seqfplot(seq_obj, main = "Sequence frequency plot", withlegend=F, border=NA)
 # Plot the state distribution by time points
 seqdplot(seq_obj, main = "State distribution plot", border=NA, withlegend=F)
 
+dev.off()
+
 # Plot the entropy of the state distribution
+pdf(file="figures/sequence_analysis_entropy.pdf")
 seqHtplot(seq_obj, title = "Entropy index")
+dev.off()
 
 
 # 4. Summarize the sequences ====================
@@ -112,6 +118,8 @@ dist_om1 <- seqdist(seq_obj, method = "OM", indel = 1, sm= seq_submat)
 # and retrieve for each individual sequence the cluster membership of the 4 class solution
 cluster_ward1 <- agnes(dist_om1, diss = TRUE, method = "ward")
 
+pdf(file="figures/sequence_analysis_clusters.pdf")
+
 # Plot the clusters
 par(mfrow = c(1, 2))
 plot(cluster_ward1)
@@ -121,12 +129,18 @@ n_cluster <- 6
 df_seq$cluster <- factor(cutree(cluster_ward1, k = n_cluster), labels = paste("Cluster", 1:n_cluster))
 seqdplot(seq_obj, group = df_seq$cluster, border=NA)
 
+dev.off()
+
 # 6. Explore the clusters ========================
 
 # Plot the state distribution at each time point within each cluster
+pdf(file="figures/sequence_analysis_state_distribution.pdf")
 seqdplot(seq_obj, group = df_seq$cluster, boder = NA)
+dev.off()
 
 # Plot the sequence frequencies within each cluster
+pdf(file="figures/sequence_analysis_pattern.pdf")
 seqfplot(seq_obj, group=df_seq$cluster, border=NA)
+dev.off()
 
 ### END #########################################

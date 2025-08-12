@@ -1,4 +1,4 @@
-"","region","Year","tfr","mac","e0_m","e0_f","e0_b","HLI","LocTypeName","GeoRegName","SDGRegName","SDGSubRegName"
+"","region","Year","TFR","mac","e0_m","e0_f","e0_b","HLI","LocTypeName","GeoRegName","SDGRegName","SDGSubRegName"
 "1","Afghanistan",1950,7.248,29.226,27.547,28.834,28.156,7.13529535412909,"Country/Area","Asia","Central and Southern Asia",""
 "2","Afghanistan",1951,7.26,29.239,27.971,29.275,28.584,7.34353577663447,"Country/Area","Asia","Central and Southern Asia",""
 "3","Afghanistan",1952,7.26,29.251,28.394,29.714,29.014,7.55984575804377,"Country/Area","Asia","Central and Southern Asia",""
@@ -4365,80 +4365,80 @@
 "4364","Cuba",2021,1.427,26.267,70.694,75.966,73.201,68.5709093682406,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
 "4365","Cuba",2022,1.412,26.264,75.2,80.098,77.629,73.8082577005489,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
 "4366","Cuba",2023,1.439,26.216,75.672,80.52,78.085,74.3543042439923,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4367","CuraÃ§ao",1950,4.981,29.197,58.248,61.962,60.291,38.2006940118178,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4368","CuraÃ§ao",1951,5.009,29.202,58.904,62.671,60.967,39.3870710315586,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4369","CuraÃ§ao",1952,5.043,29.21,59.545,63.287,61.587,40.536434997505,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4370","CuraÃ§ao",1953,5.07,29.217,60.151,63.809,62.138,41.6338650658185,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4371","CuraÃ§ao",1954,5.11,29.224,60.73,64.399,62.714,42.7480691503316,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4372","CuraÃ§ao",1955,5.155,29.23,61.268,64.973,63.261,43.828898807081,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4373","CuraÃ§ao",1956,5.166,29.235,61.734,65.529,63.762,44.8546408819273,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4374","CuraÃ§ao",1957,5.184,29.24,62.197,66.058,64.247,45.8445917472511,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4375","CuraÃ§ao",1958,5.194,29.261,62.594,66.5,64.656,46.7390321873627,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4376","CuraÃ§ao",1959,5.176,29.248,62.982,66.979,65.08,47.6153555196622,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4377","CuraÃ§ao",1960,5.13,29.234,63.284,67.354,65.406,48.3748077896899,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4378","CuraÃ§ao",1961,5.042,29.187,63.637,67.684,65.745,49.1174538715044,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4379","CuraÃ§ao",1962,4.927,29.098,63.903,68,66.027,49.786936617847,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4380","CuraÃ§ao",1963,4.798,29.025,64.173,68.313,66.312,50.4404309664841,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4381","CuraÃ§ao",1964,4.641,28.927,64.435,68.622,66.59,51.0772604567067,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4382","CuraÃ§ao",1965,4.475,28.806,64.69,68.921,66.862,51.7021270472915,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4383","CuraÃ§ao",1966,4.265,28.685,64.956,69.212,67.136,52.3292793210204,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4384","CuraÃ§ao",1967,4.059,28.566,65.182,69.533,67.405,52.9554964055429,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4385","CuraÃ§ao",1968,3.827,28.431,65.438,69.812,67.67,53.5830140764935,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4386","CuraÃ§ao",1969,3.608,28.317,65.655,70.116,67.929,54.2114350571023,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4387","CuraÃ§ao",1970,3.397,28.208,65.93,70.445,68.23,54.8857917931821,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4388","CuraÃ§ao",1971,3.18,28.095,66.147,70.777,68.505,55.5353352011816,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4389","CuraÃ§ao",1972,2.992,28.013,66.433,71.094,68.811,56.2182817383602,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4390","CuraÃ§ao",1973,2.872,27.928,66.679,71.405,69.092,56.8749955563088,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4391","CuraÃ§ao",1974,2.773,27.859,66.95,71.74,69.394,57.5484572300519,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4392","CuraÃ§ao",1975,2.662,27.796,67.22,72.026,69.672,58.1902309326356,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4393","CuraÃ§ao",1976,2.554,27.742,67.489,72.315,69.951,58.8194271605708,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4394","CuraÃ§ao",1977,2.463,27.695,67.726,72.581,70.202,59.4035537442242,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4395","CuraÃ§ao",1978,2.38,27.654,67.985,72.804,70.445,59.9599892732515,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4396","CuraÃ§ao",1979,2.312,27.614,68.22,73.108,70.716,60.5132654138913,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4397","CuraÃ§ao",1980,2.272,27.576,68.429,73.365,70.951,61.0056567764708,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4398","CuraÃ§ao",1981,2.249,27.536,68.629,73.607,71.175,61.4601487978538,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4399","CuraÃ§ao",1982,2.236,27.531,68.829,73.804,71.377,61.8674715834248,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4400","CuraÃ§ao",1983,2.238,27.521,68.951,73.996,71.534,62.2052202616919,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4401","CuraÃ§ao",1984,2.237,27.515,69.128,74.175,71.715,62.5437712999229,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4402","CuraÃ§ao",1985,2.242,27.51,69.284,74.32,71.867,62.8386067060231,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4403","CuraÃ§ao",1986,2.241,27.506,69.398,74.459,71.996,63.092704137167,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4404","CuraÃ§ao",1987,2.242,27.502,69.516,74.624,72.139,63.3492521162118,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4405","CuraÃ§ao",1988,2.253,27.498,69.593,74.726,72.23,63.5437590308692,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4406","CuraÃ§ao",1989,2.269,27.495,69.559,74.596,72.151,63.3269261314683,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4407","CuraÃ§ao",1990,2.303,27.489,69.774,74.952,72.439,63.9312340525382,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4408","CuraÃ§ao",1991,2.372,27.484,69.841,75.075,72.536,64.1014815921768,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4409","CuraÃ§ao",1992,2.433,27.48,69.912,75.229,72.65,64.276776043379,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4410","CuraÃ§ao",1993,2.438,27.322,69.946,75.295,72.703,64.3774884739195,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4411","CuraÃ§ao",1994,2.43,27.232,69.977,75.439,72.791,64.4992501083593,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4412","CuraÃ§ao",1995,2.419,27.264,69.977,75.514,72.831,64.517581604627,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4413","CuraÃ§ao",1996,2.403,27.257,70.036,75.68,72.945,64.6924184228618,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4414","CuraÃ§ao",1997,2.367,27.356,70.066,75.825,73.035,64.7950032484292,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4415","CuraÃ§ao",1998,2.315,27.582,70.065,75.918,73.084,64.8575110811069,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4416","CuraÃ§ao",1999,2.285,27.776,70.096,76.06,73.174,64.9684308964672,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4417","CuraÃ§ao",2000,2.342,27.866,70.154,76.21,73.283,65.1103284795994,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4418","CuraÃ§ao",2001,2.405,27.869,70.202,76.306,73.36,65.2343234295596,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4419","CuraÃ§ao",2002,2.3,27.997,70.274,76.45,73.472,65.4092735546242,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4420","CuraÃ§ao",2003,2.191,28,70.38,76.601,73.603,65.6248229154104,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4421","CuraÃ§ao",2004,2.099,28.069,70.488,76.755,73.735,65.8599557785856,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4422","CuraÃ§ao",2005,2.037,28.037,70.606,76.907,73.873,66.117325227505,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4423","CuraÃ§ao",2006,1.977,28.056,70.663,77.06,73.978,66.3551947809477,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4424","CuraÃ§ao",2007,1.915,28.104,70.821,77.21,74.137,66.6583032800746,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4425","CuraÃ§ao",2008,1.866,28.112,71.008,77.367,74.314,66.9879861844744,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4426","CuraÃ§ao",2009,1.879,28.276,71.174,77.535,74.485,67.3156475766628,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4427","CuraÃ§ao",2010,2.185,28.322,71.611,78.368,75.117,68.1094939854112,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4428","CuraÃ§ao",2011,2.106,28.335,71.846,79.066,75.576,68.7264040444435,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4429","CuraÃ§ao",2012,2.193,28.454,72.208,79.457,75.96,69.2901733242705,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4430","CuraÃ§ao",2013,2.098,28.604,72.427,79.787,76.239,69.7342823312476,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4431","CuraÃ§ao",2014,1.998,28.743,72.454,80.051,76.384,70.0277520564686,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4432","CuraÃ§ao",2015,1.896,28.859,72.373,80.337,76.482,70.2497716807821,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4433","CuraÃ§ao",2016,1.695,29.038,72.032,80.37,76.322,70.1794076590207,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4434","CuraÃ§ao",2017,1.455,29.239,72.129,80.442,76.423,70.3793221420571,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4435","CuraÃ§ao",2018,1.492,29.33,72.179,80.507,76.493,70.5284784054967,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4436","CuraÃ§ao",2019,1.181,29.762,72.237,80.573,76.492,70.5732899035475,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4437","CuraÃ§ao",2020,1.099,29.86,72.164,80.606,76.501,70.6420689600326,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4438","CuraÃ§ao",2021,1.077,29.964,71.46,79.709,75.686,69.8648380449612,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4439","CuraÃ§ao",2022,1.074,29.967,72.394,80.763,76.729,70.9290525181222,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"4440","CuraÃ§ao",2023,1.073,29.97,72.456,80.823,76.8,71.0306318285075,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
+"4367","Curaçao",1950,4.981,29.197,58.248,61.962,60.291,38.2006940118178,NA,NA,NA,NA
+"4368","Curaçao",1951,5.009,29.202,58.904,62.671,60.967,39.3870710315586,NA,NA,NA,NA
+"4369","Curaçao",1952,5.043,29.21,59.545,63.287,61.587,40.536434997505,NA,NA,NA,NA
+"4370","Curaçao",1953,5.07,29.217,60.151,63.809,62.138,41.6338650658185,NA,NA,NA,NA
+"4371","Curaçao",1954,5.11,29.224,60.73,64.399,62.714,42.7480691503316,NA,NA,NA,NA
+"4372","Curaçao",1955,5.155,29.23,61.268,64.973,63.261,43.828898807081,NA,NA,NA,NA
+"4373","Curaçao",1956,5.166,29.235,61.734,65.529,63.762,44.8546408819273,NA,NA,NA,NA
+"4374","Curaçao",1957,5.184,29.24,62.197,66.058,64.247,45.8445917472511,NA,NA,NA,NA
+"4375","Curaçao",1958,5.194,29.261,62.594,66.5,64.656,46.7390321873627,NA,NA,NA,NA
+"4376","Curaçao",1959,5.176,29.248,62.982,66.979,65.08,47.6153555196622,NA,NA,NA,NA
+"4377","Curaçao",1960,5.13,29.234,63.284,67.354,65.406,48.3748077896899,NA,NA,NA,NA
+"4378","Curaçao",1961,5.042,29.187,63.637,67.684,65.745,49.1174538715044,NA,NA,NA,NA
+"4379","Curaçao",1962,4.927,29.098,63.903,68,66.027,49.786936617847,NA,NA,NA,NA
+"4380","Curaçao",1963,4.798,29.025,64.173,68.313,66.312,50.4404309664841,NA,NA,NA,NA
+"4381","Curaçao",1964,4.641,28.927,64.435,68.622,66.59,51.0772604567067,NA,NA,NA,NA
+"4382","Curaçao",1965,4.475,28.806,64.69,68.921,66.862,51.7021270472915,NA,NA,NA,NA
+"4383","Curaçao",1966,4.265,28.685,64.956,69.212,67.136,52.3292793210204,NA,NA,NA,NA
+"4384","Curaçao",1967,4.059,28.566,65.182,69.533,67.405,52.9554964055429,NA,NA,NA,NA
+"4385","Curaçao",1968,3.827,28.431,65.438,69.812,67.67,53.5830140764935,NA,NA,NA,NA
+"4386","Curaçao",1969,3.608,28.317,65.655,70.116,67.929,54.2114350571023,NA,NA,NA,NA
+"4387","Curaçao",1970,3.397,28.208,65.93,70.445,68.23,54.8857917931821,NA,NA,NA,NA
+"4388","Curaçao",1971,3.18,28.095,66.147,70.777,68.505,55.5353352011816,NA,NA,NA,NA
+"4389","Curaçao",1972,2.992,28.013,66.433,71.094,68.811,56.2182817383602,NA,NA,NA,NA
+"4390","Curaçao",1973,2.872,27.928,66.679,71.405,69.092,56.8749955563088,NA,NA,NA,NA
+"4391","Curaçao",1974,2.773,27.859,66.95,71.74,69.394,57.5484572300519,NA,NA,NA,NA
+"4392","Curaçao",1975,2.662,27.796,67.22,72.026,69.672,58.1902309326356,NA,NA,NA,NA
+"4393","Curaçao",1976,2.554,27.742,67.489,72.315,69.951,58.8194271605708,NA,NA,NA,NA
+"4394","Curaçao",1977,2.463,27.695,67.726,72.581,70.202,59.4035537442242,NA,NA,NA,NA
+"4395","Curaçao",1978,2.38,27.654,67.985,72.804,70.445,59.9599892732515,NA,NA,NA,NA
+"4396","Curaçao",1979,2.312,27.614,68.22,73.108,70.716,60.5132654138913,NA,NA,NA,NA
+"4397","Curaçao",1980,2.272,27.576,68.429,73.365,70.951,61.0056567764708,NA,NA,NA,NA
+"4398","Curaçao",1981,2.249,27.536,68.629,73.607,71.175,61.4601487978538,NA,NA,NA,NA
+"4399","Curaçao",1982,2.236,27.531,68.829,73.804,71.377,61.8674715834248,NA,NA,NA,NA
+"4400","Curaçao",1983,2.238,27.521,68.951,73.996,71.534,62.2052202616919,NA,NA,NA,NA
+"4401","Curaçao",1984,2.237,27.515,69.128,74.175,71.715,62.5437712999229,NA,NA,NA,NA
+"4402","Curaçao",1985,2.242,27.51,69.284,74.32,71.867,62.8386067060231,NA,NA,NA,NA
+"4403","Curaçao",1986,2.241,27.506,69.398,74.459,71.996,63.092704137167,NA,NA,NA,NA
+"4404","Curaçao",1987,2.242,27.502,69.516,74.624,72.139,63.3492521162118,NA,NA,NA,NA
+"4405","Curaçao",1988,2.253,27.498,69.593,74.726,72.23,63.5437590308692,NA,NA,NA,NA
+"4406","Curaçao",1989,2.269,27.495,69.559,74.596,72.151,63.3269261314683,NA,NA,NA,NA
+"4407","Curaçao",1990,2.303,27.489,69.774,74.952,72.439,63.9312340525382,NA,NA,NA,NA
+"4408","Curaçao",1991,2.372,27.484,69.841,75.075,72.536,64.1014815921768,NA,NA,NA,NA
+"4409","Curaçao",1992,2.433,27.48,69.912,75.229,72.65,64.276776043379,NA,NA,NA,NA
+"4410","Curaçao",1993,2.438,27.322,69.946,75.295,72.703,64.3774884739195,NA,NA,NA,NA
+"4411","Curaçao",1994,2.43,27.232,69.977,75.439,72.791,64.4992501083593,NA,NA,NA,NA
+"4412","Curaçao",1995,2.419,27.264,69.977,75.514,72.831,64.517581604627,NA,NA,NA,NA
+"4413","Curaçao",1996,2.403,27.257,70.036,75.68,72.945,64.6924184228618,NA,NA,NA,NA
+"4414","Curaçao",1997,2.367,27.356,70.066,75.825,73.035,64.7950032484292,NA,NA,NA,NA
+"4415","Curaçao",1998,2.315,27.582,70.065,75.918,73.084,64.8575110811069,NA,NA,NA,NA
+"4416","Curaçao",1999,2.285,27.776,70.096,76.06,73.174,64.9684308964672,NA,NA,NA,NA
+"4417","Curaçao",2000,2.342,27.866,70.154,76.21,73.283,65.1103284795994,NA,NA,NA,NA
+"4418","Curaçao",2001,2.405,27.869,70.202,76.306,73.36,65.2343234295596,NA,NA,NA,NA
+"4419","Curaçao",2002,2.3,27.997,70.274,76.45,73.472,65.4092735546242,NA,NA,NA,NA
+"4420","Curaçao",2003,2.191,28,70.38,76.601,73.603,65.6248229154104,NA,NA,NA,NA
+"4421","Curaçao",2004,2.099,28.069,70.488,76.755,73.735,65.8599557785856,NA,NA,NA,NA
+"4422","Curaçao",2005,2.037,28.037,70.606,76.907,73.873,66.117325227505,NA,NA,NA,NA
+"4423","Curaçao",2006,1.977,28.056,70.663,77.06,73.978,66.3551947809477,NA,NA,NA,NA
+"4424","Curaçao",2007,1.915,28.104,70.821,77.21,74.137,66.6583032800746,NA,NA,NA,NA
+"4425","Curaçao",2008,1.866,28.112,71.008,77.367,74.314,66.9879861844744,NA,NA,NA,NA
+"4426","Curaçao",2009,1.879,28.276,71.174,77.535,74.485,67.3156475766628,NA,NA,NA,NA
+"4427","Curaçao",2010,2.185,28.322,71.611,78.368,75.117,68.1094939854112,NA,NA,NA,NA
+"4428","Curaçao",2011,2.106,28.335,71.846,79.066,75.576,68.7264040444435,NA,NA,NA,NA
+"4429","Curaçao",2012,2.193,28.454,72.208,79.457,75.96,69.2901733242705,NA,NA,NA,NA
+"4430","Curaçao",2013,2.098,28.604,72.427,79.787,76.239,69.7342823312476,NA,NA,NA,NA
+"4431","Curaçao",2014,1.998,28.743,72.454,80.051,76.384,70.0277520564686,NA,NA,NA,NA
+"4432","Curaçao",2015,1.896,28.859,72.373,80.337,76.482,70.2497716807821,NA,NA,NA,NA
+"4433","Curaçao",2016,1.695,29.038,72.032,80.37,76.322,70.1794076590207,NA,NA,NA,NA
+"4434","Curaçao",2017,1.455,29.239,72.129,80.442,76.423,70.3793221420571,NA,NA,NA,NA
+"4435","Curaçao",2018,1.492,29.33,72.179,80.507,76.493,70.5284784054967,NA,NA,NA,NA
+"4436","Curaçao",2019,1.181,29.762,72.237,80.573,76.492,70.5732899035475,NA,NA,NA,NA
+"4437","Curaçao",2020,1.099,29.86,72.164,80.606,76.501,70.6420689600326,NA,NA,NA,NA
+"4438","Curaçao",2021,1.077,29.964,71.46,79.709,75.686,69.8648380449612,NA,NA,NA,NA
+"4439","Curaçao",2022,1.074,29.967,72.394,80.763,76.729,70.9290525181222,NA,NA,NA,NA
+"4440","Curaçao",2023,1.073,29.97,72.456,80.823,76.8,71.0306318285075,NA,NA,NA,NA
 "4441","Cyprus",1950,3.871,30.064,51.974,60.154,55.828,31.6930285185635,"Country/Area","Asia","Northern Africa and Western Asia",""
 "4442","Cyprus",1951,3.801,30.036,52.913,61.07,56.762,33.0506460126622,"Country/Area","Asia","Northern Africa and Western Asia",""
 "4443","Cyprus",1952,3.467,29.817,53.813,62.007,57.678,34.4084592855396,"Country/Area","Asia","Northern Africa and Western Asia",""
@@ -4587,80 +4587,80 @@
 "4586","Czechia",2021,1.823,30.366,74.104,80.512,77.234,74.8397354584803,"Country/Area","Europe","Europe and Northern America","Europe"
 "4587","Czechia",2022,1.618,30.404,76.222,82.105,79.165,76.6627958773773,"Country/Area","Europe","Europe and Northern America","Europe"
 "4588","Czechia",2023,1.448,30.43,76.999,82.641,79.834,77.4123381261975,"Country/Area","Europe","Europe and Northern America","Europe"
-"4589","CÃ´te d'Ivoire",1950,7.61,29.619,28.355,33.591,30.832,8.58246924608474,"Country/Area","Africa","Sub-Saharan Africa",""
-"4590","CÃ´te d'Ivoire",1951,7.609,29.622,28.963,34.044,31.384,8.86388648738393,"Country/Area","Africa","Sub-Saharan Africa",""
-"4591","CÃ´te d'Ivoire",1952,7.606,29.624,29.579,34.557,31.959,9.15565422441752,"Country/Area","Africa","Sub-Saharan Africa",""
-"4592","CÃ´te d'Ivoire",1953,7.604,29.625,30.22,35.076,32.548,9.4639120461158,"Country/Area","Africa","Sub-Saharan Africa",""
-"4593","CÃ´te d'Ivoire",1954,7.602,29.623,30.95,35.612,33.191,9.80099465096991,"Country/Area","Africa","Sub-Saharan Africa",""
-"4594","CÃ´te d'Ivoire",1955,7.597,29.62,31.623,36.171,33.811,10.1495012194881,"Country/Area","Africa","Sub-Saharan Africa",""
-"4595","CÃ´te d'Ivoire",1956,7.597,29.612,32.332,36.76,34.464,10.5310986305716,"Country/Area","Africa","Sub-Saharan Africa",""
-"4596","CÃ´te d'Ivoire",1957,7.598,29.604,33.09,37.376,35.156,10.9421279174835,"Country/Area","Africa","Sub-Saharan Africa",""
-"4597","CÃ´te d'Ivoire",1958,7.61,29.596,33.789,38.017,35.826,11.3650773459305,"Country/Area","Africa","Sub-Saharan Africa",""
-"4598","CÃ´te d'Ivoire",1959,7.606,29.546,34.53,38.716,36.547,11.8148655720119,"Country/Area","Africa","Sub-Saharan Africa",""
-"4599","CÃ´te d'Ivoire",1960,7.691,29.498,35.227,39.42,37.244,12.2776879932047,"Country/Area","Africa","Sub-Saharan Africa",""
-"4600","CÃ´te d'Ivoire",1961,7.72,29.453,35.929,40.076,37.923,12.7433868680323,"Country/Area","Africa","Sub-Saharan Africa",""
-"4601","CÃ´te d'Ivoire",1962,7.75,29.407,36.602,40.81,38.62,13.2419851075254,"Country/Area","Africa","Sub-Saharan Africa",""
-"4602","CÃ´te d'Ivoire",1963,7.781,29.367,37.305,41.502,39.315,13.7423480832136,"Country/Area","Africa","Sub-Saharan Africa",""
-"4603","CÃ´te d'Ivoire",1964,7.811,29.362,37.976,42.136,39.966,14.2470308543831,"Country/Area","Africa","Sub-Saharan Africa",""
-"4604","CÃ´te d'Ivoire",1965,7.841,29.387,38.667,42.804,40.643,14.7691986130209,"Country/Area","Africa","Sub-Saharan Africa",""
-"4605","CÃ´te d'Ivoire",1966,7.868,29.411,39.323,43.466,41.297,15.3019052747699,"Country/Area","Africa","Sub-Saharan Africa",""
-"4606","CÃ´te d'Ivoire",1967,7.893,29.402,40.031,44.08,41.959,15.8549106131293,"Country/Area","Africa","Sub-Saharan Africa",""
-"4607","CÃ´te d'Ivoire",1968,7.912,29.402,40.742,44.751,42.648,16.4376034247778,"Country/Area","Africa","Sub-Saharan Africa",""
-"4608","CÃ´te d'Ivoire",1969,7.927,29.407,41.455,45.433,43.345,17.0488909182904,"Country/Area","Africa","Sub-Saharan Africa",""
-"4609","CÃ´te d'Ivoire",1970,7.936,29.439,42.176,46.116,44.045,17.6933492149131,"Country/Area","Africa","Sub-Saharan Africa",""
-"4610","CÃ´te d'Ivoire",1971,7.941,29.448,42.931,46.844,44.783,18.3956492455352,"Country/Area","Africa","Sub-Saharan Africa",""
-"4611","CÃ´te d'Ivoire",1972,7.942,29.461,43.751,47.611,45.575,19.1611815473594,"Country/Area","Africa","Sub-Saharan Africa",""
-"4612","CÃ´te d'Ivoire",1973,7.939,29.361,44.533,48.442,46.372,19.9725707982544,"Country/Area","Africa","Sub-Saharan Africa",""
-"4613","CÃ´te d'Ivoire",1974,7.929,29.283,45.37,49.285,47.207,20.843139344238,"Country/Area","Africa","Sub-Saharan Africa",""
-"4614","CÃ´te d'Ivoire",1975,7.91,29.288,46.198,50.114,48.03,21.7378583548919,"Country/Area","Africa","Sub-Saharan Africa",""
-"4615","CÃ´te d'Ivoire",1976,7.877,29.255,47.026,50.965,48.863,22.6615160014425,"Country/Area","Africa","Sub-Saharan Africa",""
-"4616","CÃ´te d'Ivoire",1977,7.828,29.234,47.738,51.789,49.624,23.5509837311662,"Country/Area","Africa","Sub-Saharan Africa",""
-"4617","CÃ´te d'Ivoire",1978,7.669,29.151,48.448,52.556,50.361,24.4174765150347,"Country/Area","Africa","Sub-Saharan Africa",""
-"4618","CÃ´te d'Ivoire",1979,7.625,29.175,49.028,53.233,50.983,25.1983633792993,"Country/Area","Africa","Sub-Saharan Africa",""
-"4619","CÃ´te d'Ivoire",1980,7.586,29.251,49.383,53.819,51.437,25.8604306569073,"Country/Area","Africa","Sub-Saharan Africa",""
-"4620","CÃ´te d'Ivoire",1981,7.539,29.33,49.639,54.302,51.791,26.4265347668384,"Country/Area","Africa","Sub-Saharan Africa",""
-"4621","CÃ´te d'Ivoire",1982,7.488,29.408,49.881,54.672,52.09,26.9034341591142,"Country/Area","Africa","Sub-Saharan Africa",""
-"4622","CÃ´te d'Ivoire",1983,7.417,29.468,50.071,55.028,52.352,27.3096951456225,"Country/Area","Africa","Sub-Saharan Africa",""
-"4623","CÃ´te d'Ivoire",1984,7.352,29.472,50.364,55.323,52.648,27.6798415069627,"Country/Area","Africa","Sub-Saharan Africa",""
-"4624","CÃ´te d'Ivoire",1985,7.273,29.532,50.592,55.51,52.861,27.9565004581435,"Country/Area","Africa","Sub-Saharan Africa",""
-"4625","CÃ´te d'Ivoire",1986,7.187,29.573,50.747,55.645,53.009,28.1535444271504,"Country/Area","Africa","Sub-Saharan Africa",""
-"4626","CÃ´te d'Ivoire",1987,7.09,29.545,50.861,55.744,53.118,28.2847240292559,"Country/Area","Africa","Sub-Saharan Africa",""
-"4627","CÃ´te d'Ivoire",1988,6.969,29.655,50.833,55.645,53.062,28.288105000264,"Country/Area","Africa","Sub-Saharan Africa",""
-"4628","CÃ´te d'Ivoire",1989,6.85,29.646,50.789,55.455,52.955,28.2422727425015,"Country/Area","Africa","Sub-Saharan Africa",""
-"4629","CÃ´te d'Ivoire",1990,6.719,29.541,50.736,55.154,52.796,28.1540765820357,"Country/Area","Africa","Sub-Saharan Africa",""
-"4630","CÃ´te d'Ivoire",1991,6.585,29.517,50.634,54.884,52.621,28.0495711978364,"Country/Area","Africa","Sub-Saharan Africa",""
-"4631","CÃ´te d'Ivoire",1992,6.426,29.448,50.539,54.568,52.429,27.9561523781806,"Country/Area","Africa","Sub-Saharan Africa",""
-"4632","CÃ´te d'Ivoire",1993,6.27,29.486,50.443,54.276,52.247,27.8791296576176,"Country/Area","Africa","Sub-Saharan Africa",""
-"4633","CÃ´te d'Ivoire",1994,6.128,29.546,50.348,53.851,52.005,27.8018968043155,"Country/Area","Africa","Sub-Saharan Africa",""
-"4634","CÃ´te d'Ivoire",1995,6.038,29.476,50.11,53.492,51.713,27.7368794183778,"Country/Area","Africa","Sub-Saharan Africa",""
-"4635","CÃ´te d'Ivoire",1996,5.954,29.443,50.125,53.213,51.596,27.8167842556886,"Country/Area","Africa","Sub-Saharan Africa",""
-"4636","CÃ´te d'Ivoire",1997,5.902,29.385,50.149,52.969,51.498,27.9430534723972,"Country/Area","Africa","Sub-Saharan Africa",""
-"4637","CÃ´te d'Ivoire",1998,5.854,29.328,50.147,52.362,51.22,28.0307616768296,"Country/Area","Africa","Sub-Saharan Africa",""
-"4638","CÃ´te d'Ivoire",1999,5.805,29.339,50.197,52.421,51.273,28.3193174075114,"Country/Area","Africa","Sub-Saharan Africa",""
-"4639","CÃ´te d'Ivoire",2000,5.773,29.222,50.313,52.548,51.393,28.6747928594099,"Country/Area","Africa","Sub-Saharan Africa",""
-"4640","CÃ´te d'Ivoire",2001,5.704,29.115,50.432,52.495,51.428,29.0248660163836,"Country/Area","Africa","Sub-Saharan Africa",""
-"4641","CÃ´te d'Ivoire",2002,5.641,29.074,50.621,52.529,51.544,29.4459624135809,"Country/Area","Africa","Sub-Saharan Africa",""
-"4642","CÃ´te d'Ivoire",2003,5.572,29.048,50.579,52.355,51.443,29.7714356949893,"Country/Area","Africa","Sub-Saharan Africa",""
-"4643","CÃ´te d'Ivoire",2004,5.527,29.08,50.969,52.975,51.939,30.4701137827205,"Country/Area","Africa","Sub-Saharan Africa",""
-"4644","CÃ´te d'Ivoire",2005,5.499,29.082,51.356,53.601,52.432,31.1789282453321,"Country/Area","Africa","Sub-Saharan Africa",""
-"4645","CÃ´te d'Ivoire",2006,5.448,29.06,51.882,53.963,52.885,31.901738301964,"Country/Area","Africa","Sub-Saharan Africa",""
-"4646","CÃ´te d'Ivoire",2007,5.403,29.065,52.353,54.65,53.452,32.683188714685,"Country/Area","Africa","Sub-Saharan Africa",""
-"4647","CÃ´te d'Ivoire",2008,5.357,29.083,52.856,55.634,54.179,33.5864827032169,"Country/Area","Africa","Sub-Saharan Africa",""
-"4648","CÃ´te d'Ivoire",2009,5.332,29.109,53.325,56.314,54.744,34.3618890297467,"Country/Area","Africa","Sub-Saharan Africa",""
-"4649","CÃ´te d'Ivoire",2010,5.292,29.085,53.814,56.912,55.282,35.0900370030644,"Country/Area","Africa","Sub-Saharan Africa",""
-"4650","CÃ´te d'Ivoire",2011,5.244,29.156,54.445,57.673,55.972,35.8958616308972,"Country/Area","Africa","Sub-Saharan Africa",""
-"4651","CÃ´te d'Ivoire",2012,5.19,29.189,55.013,58.314,56.57,36.6892811340985,"Country/Area","Africa","Sub-Saharan Africa",""
-"4652","CÃ´te d'Ivoire",2013,5.135,29.198,55.462,58.856,57.057,37.3933665477538,"Country/Area","Africa","Sub-Saharan Africa",""
-"4653","CÃ´te d'Ivoire",2014,5.071,29.161,56.268,59.462,57.772,38.240339824141,"Country/Area","Africa","Sub-Saharan Africa",""
-"4654","CÃ´te d'Ivoire",2015,4.97,29.082,56.731,60.022,58.281,38.9588499596605,"Country/Area","Africa","Sub-Saharan Africa",""
-"4655","CÃ´te d'Ivoire",2016,4.873,29.031,57.176,60.661,58.814,39.6885823687536,"Country/Area","Africa","Sub-Saharan Africa",""
-"4656","CÃ´te d'Ivoire",2017,4.757,29.058,57.622,61.23,59.315,40.3965285199875,"Country/Area","Africa","Sub-Saharan Africa",""
-"4657","CÃ´te d'Ivoire",2018,4.596,29.059,58.063,61.756,59.795,41.088973343241,"Country/Area","Africa","Sub-Saharan Africa",""
-"4658","CÃ´te d'Ivoire",2019,4.523,29.07,58.493,62.295,60.274,41.7787802099873,"Country/Area","Africa","Sub-Saharan Africa",""
-"4659","CÃ´te d'Ivoire",2020,4.461,29.084,58.242,62.336,60.14,42.1540906836594,"Country/Area","Africa","Sub-Saharan Africa",""
-"4660","CÃ´te d'Ivoire",2021,4.411,29.095,58.496,62.313,60.29,42.5783948475502,"Country/Area","Africa","Sub-Saharan Africa",""
-"4661","CÃ´te d'Ivoire",2022,4.349,29.067,59.649,63.731,61.562,43.7458965324756,"Country/Area","Africa","Sub-Saharan Africa",""
-"4662","CÃ´te d'Ivoire",2023,4.283,29.028,60.016,64.132,61.944,44.3357736354673,"Country/Area","Africa","Sub-Saharan Africa",""
+"4589","Côte d'Ivoire",1950,7.61,29.619,28.355,33.591,30.832,8.58246924608474,NA,NA,NA,NA
+"4590","Côte d'Ivoire",1951,7.609,29.622,28.963,34.044,31.384,8.86388648738393,NA,NA,NA,NA
+"4591","Côte d'Ivoire",1952,7.606,29.624,29.579,34.557,31.959,9.15565422441752,NA,NA,NA,NA
+"4592","Côte d'Ivoire",1953,7.604,29.625,30.22,35.076,32.548,9.4639120461158,NA,NA,NA,NA
+"4593","Côte d'Ivoire",1954,7.602,29.623,30.95,35.612,33.191,9.80099465096991,NA,NA,NA,NA
+"4594","Côte d'Ivoire",1955,7.597,29.62,31.623,36.171,33.811,10.1495012194881,NA,NA,NA,NA
+"4595","Côte d'Ivoire",1956,7.597,29.612,32.332,36.76,34.464,10.5310986305716,NA,NA,NA,NA
+"4596","Côte d'Ivoire",1957,7.598,29.604,33.09,37.376,35.156,10.9421279174835,NA,NA,NA,NA
+"4597","Côte d'Ivoire",1958,7.61,29.596,33.789,38.017,35.826,11.3650773459305,NA,NA,NA,NA
+"4598","Côte d'Ivoire",1959,7.606,29.546,34.53,38.716,36.547,11.8148655720119,NA,NA,NA,NA
+"4599","Côte d'Ivoire",1960,7.691,29.498,35.227,39.42,37.244,12.2776879932047,NA,NA,NA,NA
+"4600","Côte d'Ivoire",1961,7.72,29.453,35.929,40.076,37.923,12.7433868680323,NA,NA,NA,NA
+"4601","Côte d'Ivoire",1962,7.75,29.407,36.602,40.81,38.62,13.2419851075254,NA,NA,NA,NA
+"4602","Côte d'Ivoire",1963,7.781,29.367,37.305,41.502,39.315,13.7423480832136,NA,NA,NA,NA
+"4603","Côte d'Ivoire",1964,7.811,29.362,37.976,42.136,39.966,14.2470308543831,NA,NA,NA,NA
+"4604","Côte d'Ivoire",1965,7.841,29.387,38.667,42.804,40.643,14.7691986130209,NA,NA,NA,NA
+"4605","Côte d'Ivoire",1966,7.868,29.411,39.323,43.466,41.297,15.3019052747699,NA,NA,NA,NA
+"4606","Côte d'Ivoire",1967,7.893,29.402,40.031,44.08,41.959,15.8549106131293,NA,NA,NA,NA
+"4607","Côte d'Ivoire",1968,7.912,29.402,40.742,44.751,42.648,16.4376034247778,NA,NA,NA,NA
+"4608","Côte d'Ivoire",1969,7.927,29.407,41.455,45.433,43.345,17.0488909182904,NA,NA,NA,NA
+"4609","Côte d'Ivoire",1970,7.936,29.439,42.176,46.116,44.045,17.6933492149131,NA,NA,NA,NA
+"4610","Côte d'Ivoire",1971,7.941,29.448,42.931,46.844,44.783,18.3956492455352,NA,NA,NA,NA
+"4611","Côte d'Ivoire",1972,7.942,29.461,43.751,47.611,45.575,19.1611815473594,NA,NA,NA,NA
+"4612","Côte d'Ivoire",1973,7.939,29.361,44.533,48.442,46.372,19.9725707982544,NA,NA,NA,NA
+"4613","Côte d'Ivoire",1974,7.929,29.283,45.37,49.285,47.207,20.843139344238,NA,NA,NA,NA
+"4614","Côte d'Ivoire",1975,7.91,29.288,46.198,50.114,48.03,21.7378583548919,NA,NA,NA,NA
+"4615","Côte d'Ivoire",1976,7.877,29.255,47.026,50.965,48.863,22.6615160014425,NA,NA,NA,NA
+"4616","Côte d'Ivoire",1977,7.828,29.234,47.738,51.789,49.624,23.5509837311662,NA,NA,NA,NA
+"4617","Côte d'Ivoire",1978,7.669,29.151,48.448,52.556,50.361,24.4174765150347,NA,NA,NA,NA
+"4618","Côte d'Ivoire",1979,7.625,29.175,49.028,53.233,50.983,25.1983633792993,NA,NA,NA,NA
+"4619","Côte d'Ivoire",1980,7.586,29.251,49.383,53.819,51.437,25.8604306569073,NA,NA,NA,NA
+"4620","Côte d'Ivoire",1981,7.539,29.33,49.639,54.302,51.791,26.4265347668384,NA,NA,NA,NA
+"4621","Côte d'Ivoire",1982,7.488,29.408,49.881,54.672,52.09,26.9034341591142,NA,NA,NA,NA
+"4622","Côte d'Ivoire",1983,7.417,29.468,50.071,55.028,52.352,27.3096951456225,NA,NA,NA,NA
+"4623","Côte d'Ivoire",1984,7.352,29.472,50.364,55.323,52.648,27.6798415069627,NA,NA,NA,NA
+"4624","Côte d'Ivoire",1985,7.273,29.532,50.592,55.51,52.861,27.9565004581435,NA,NA,NA,NA
+"4625","Côte d'Ivoire",1986,7.187,29.573,50.747,55.645,53.009,28.1535444271504,NA,NA,NA,NA
+"4626","Côte d'Ivoire",1987,7.09,29.545,50.861,55.744,53.118,28.2847240292559,NA,NA,NA,NA
+"4627","Côte d'Ivoire",1988,6.969,29.655,50.833,55.645,53.062,28.288105000264,NA,NA,NA,NA
+"4628","Côte d'Ivoire",1989,6.85,29.646,50.789,55.455,52.955,28.2422727425015,NA,NA,NA,NA
+"4629","Côte d'Ivoire",1990,6.719,29.541,50.736,55.154,52.796,28.1540765820357,NA,NA,NA,NA
+"4630","Côte d'Ivoire",1991,6.585,29.517,50.634,54.884,52.621,28.0495711978364,NA,NA,NA,NA
+"4631","Côte d'Ivoire",1992,6.426,29.448,50.539,54.568,52.429,27.9561523781806,NA,NA,NA,NA
+"4632","Côte d'Ivoire",1993,6.27,29.486,50.443,54.276,52.247,27.8791296576176,NA,NA,NA,NA
+"4633","Côte d'Ivoire",1994,6.128,29.546,50.348,53.851,52.005,27.8018968043155,NA,NA,NA,NA
+"4634","Côte d'Ivoire",1995,6.038,29.476,50.11,53.492,51.713,27.7368794183778,NA,NA,NA,NA
+"4635","Côte d'Ivoire",1996,5.954,29.443,50.125,53.213,51.596,27.8167842556886,NA,NA,NA,NA
+"4636","Côte d'Ivoire",1997,5.902,29.385,50.149,52.969,51.498,27.9430534723972,NA,NA,NA,NA
+"4637","Côte d'Ivoire",1998,5.854,29.328,50.147,52.362,51.22,28.0307616768296,NA,NA,NA,NA
+"4638","Côte d'Ivoire",1999,5.805,29.339,50.197,52.421,51.273,28.3193174075114,NA,NA,NA,NA
+"4639","Côte d'Ivoire",2000,5.773,29.222,50.313,52.548,51.393,28.6747928594099,NA,NA,NA,NA
+"4640","Côte d'Ivoire",2001,5.704,29.115,50.432,52.495,51.428,29.0248660163836,NA,NA,NA,NA
+"4641","Côte d'Ivoire",2002,5.641,29.074,50.621,52.529,51.544,29.4459624135809,NA,NA,NA,NA
+"4642","Côte d'Ivoire",2003,5.572,29.048,50.579,52.355,51.443,29.7714356949893,NA,NA,NA,NA
+"4643","Côte d'Ivoire",2004,5.527,29.08,50.969,52.975,51.939,30.4701137827205,NA,NA,NA,NA
+"4644","Côte d'Ivoire",2005,5.499,29.082,51.356,53.601,52.432,31.1789282453321,NA,NA,NA,NA
+"4645","Côte d'Ivoire",2006,5.448,29.06,51.882,53.963,52.885,31.901738301964,NA,NA,NA,NA
+"4646","Côte d'Ivoire",2007,5.403,29.065,52.353,54.65,53.452,32.683188714685,NA,NA,NA,NA
+"4647","Côte d'Ivoire",2008,5.357,29.083,52.856,55.634,54.179,33.5864827032169,NA,NA,NA,NA
+"4648","Côte d'Ivoire",2009,5.332,29.109,53.325,56.314,54.744,34.3618890297467,NA,NA,NA,NA
+"4649","Côte d'Ivoire",2010,5.292,29.085,53.814,56.912,55.282,35.0900370030644,NA,NA,NA,NA
+"4650","Côte d'Ivoire",2011,5.244,29.156,54.445,57.673,55.972,35.8958616308972,NA,NA,NA,NA
+"4651","Côte d'Ivoire",2012,5.19,29.189,55.013,58.314,56.57,36.6892811340985,NA,NA,NA,NA
+"4652","Côte d'Ivoire",2013,5.135,29.198,55.462,58.856,57.057,37.3933665477538,NA,NA,NA,NA
+"4653","Côte d'Ivoire",2014,5.071,29.161,56.268,59.462,57.772,38.240339824141,NA,NA,NA,NA
+"4654","Côte d'Ivoire",2015,4.97,29.082,56.731,60.022,58.281,38.9588499596605,NA,NA,NA,NA
+"4655","Côte d'Ivoire",2016,4.873,29.031,57.176,60.661,58.814,39.6885823687536,NA,NA,NA,NA
+"4656","Côte d'Ivoire",2017,4.757,29.058,57.622,61.23,59.315,40.3965285199875,NA,NA,NA,NA
+"4657","Côte d'Ivoire",2018,4.596,29.059,58.063,61.756,59.795,41.088973343241,NA,NA,NA,NA
+"4658","Côte d'Ivoire",2019,4.523,29.07,58.493,62.295,60.274,41.7787802099873,NA,NA,NA,NA
+"4659","Côte d'Ivoire",2020,4.461,29.084,58.242,62.336,60.14,42.1540906836594,NA,NA,NA,NA
+"4660","Côte d'Ivoire",2021,4.411,29.095,58.496,62.313,60.29,42.5783948475502,NA,NA,NA,NA
+"4661","Côte d'Ivoire",2022,4.349,29.067,59.649,63.731,61.562,43.7458965324756,NA,NA,NA,NA
+"4662","Côte d'Ivoire",2023,4.283,29.028,60.016,64.132,61.944,44.3357736354673,NA,NA,NA,NA
 "4663","Dem. People's Republic of Korea",1950,4.994,29.009,11.359,21.123,14.201,4.66782091631983,"Country/Area","Asia","Eastern and South-Eastern Asia",""
 "4664","Dem. People's Republic of Korea",1951,2.597,28.012,13.672,25.28,17.663,6.05404261967806,"Country/Area","Asia","Eastern and South-Eastern Asia",""
 "4665","Dem. People's Republic of Korea",1952,2.611,28.082,26.339,39.557,32.791,13.0579480026152,"Country/Area","Asia","Eastern and South-Eastern Asia",""
@@ -16057,80 +16057,80 @@
 "16056","Rwanda",2021,3.841,30.62,64.585,68.922,66.85,53.6548457338553,"Country/Area","Africa","Sub-Saharan Africa",""
 "16057","Rwanda",2022,3.778,30.598,65.237,69.625,67.528,54.478338002335,"Country/Area","Africa","Sub-Saharan Africa",""
 "16058","Rwanda",2023,3.698,30.59,65.493,69.886,67.785,54.9867752512788,"Country/Area","Africa","Sub-Saharan Africa",""
-"16059","RÃ©union",1950,6.963,30.534,44.634,50.21,47.56,19.9731460496252,"Country/Area","Africa","Sub-Saharan Africa",""
-"16060","RÃ©union",1951,6.967,30.539,45.6,51.387,48.648,21.2286700974344,"Country/Area","Africa","Sub-Saharan Africa",""
-"16061","RÃ©union",1952,6.917,30.543,46.954,52.913,50.108,23.0784414229359,"Country/Area","Africa","Sub-Saharan Africa",""
-"16062","RÃ©union",1953,6.884,30.488,48.239,54.301,51.465,24.9244579339346,"Country/Area","Africa","Sub-Saharan Africa",""
-"16063","RÃ©union",1954,6.738,30.53,49.785,55.756,52.991,26.9807250064679,"Country/Area","Africa","Sub-Saharan Africa",""
-"16064","RÃ©union",1955,6.766,30.596,50.914,56.808,54.087,28.6635420821699,"Country/Area","Africa","Sub-Saharan Africa",""
-"16065","RÃ©union",1956,6.596,30.551,51.742,57.57,54.881,29.8282669368014,"Country/Area","Africa","Sub-Saharan Africa",""
-"16066","RÃ©union",1957,6.531,30.538,51.751,57.645,54.898,29.9013814785432,"Country/Area","Africa","Sub-Saharan Africa",""
-"16067","RÃ©union",1958,6.177,30.407,52.118,58.086,55.293,30.5108398854257,"Country/Area","Africa","Sub-Saharan Africa",""
-"16068","RÃ©union",1959,6.106,30.385,52.934,59.027,56.175,31.8742462836588,"Country/Area","Africa","Sub-Saharan Africa",""
-"16069","RÃ©union",1960,6.105,30.304,54.2,60.714,57.662,34.2618392029553,"Country/Area","Africa","Sub-Saharan Africa",""
-"16070","RÃ©union",1961,6.056,30.27,55.129,61.999,58.758,36.2708081785413,"Country/Area","Africa","Sub-Saharan Africa",""
-"16071","RÃ©union",1962,6.168,30.297,55.668,62.787,59.394,37.7147962402831,"Country/Area","Africa","Sub-Saharan Africa",""
-"16072","RÃ©union",1963,6.272,30.409,56.109,63.274,59.836,38.6782576634631,"Country/Area","Africa","Sub-Saharan Africa",""
-"16073","RÃ©union",1964,6.172,30.348,56.616,63.72,60.313,39.3259351420509,"Country/Area","Africa","Sub-Saharan Africa",""
-"16074","RÃ©union",1965,6.152,30.285,57.217,64.413,60.974,40.0354242562201,"Country/Area","Africa","Sub-Saharan Africa",""
-"16075","RÃ©union",1966,5.979,30.131,57.707,64.835,61.434,40.6491666117455,"Country/Area","Africa","Sub-Saharan Africa",""
-"16076","RÃ©union",1967,5.672,29.98,58.305,65.572,62.089,42.0035198049077,"Country/Area","Africa","Sub-Saharan Africa",""
-"16077","RÃ©union",1968,5.458,29.936,58.615,65.982,62.395,43.272370987716,"Country/Area","Africa","Sub-Saharan Africa",""
-"16078","RÃ©union",1969,5.045,29.747,58.96,66.596,62.852,44.4136085459448,"Country/Area","Africa","Sub-Saharan Africa",""
-"16079","RÃ©union",1970,4.299,29.424,59.226,67.055,63.204,45.2769160304553,"Country/Area","Africa","Sub-Saharan Africa",""
-"16080","RÃ©union",1971,4.038,29.298,59.661,67.654,63.729,46.1715914263837,"Country/Area","Africa","Sub-Saharan Africa",""
-"16081","RÃ©union",1972,3.922,29.192,60.099,68.269,64.245,47.3914486678158,"Country/Area","Africa","Sub-Saharan Africa",""
-"16082","RÃ©union",1973,3.813,29.091,60.627,68.859,64.774,48.8852914366936,"Country/Area","Africa","Sub-Saharan Africa",""
-"16083","RÃ©union",1974,3.727,28.989,61.212,69.489,65.354,50.4960579637835,"Country/Area","Africa","Sub-Saharan Africa",""
-"16084","RÃ©union",1975,3.647,28.903,61.911,70.156,66.019,52.2587909590062,"Country/Area","Africa","Sub-Saharan Africa",""
-"16085","RÃ©union",1976,3.529,28.789,62.621,70.806,66.698,53.8171895052942,"Country/Area","Africa","Sub-Saharan Africa",""
-"16086","RÃ©union",1977,3.414,28.692,63.393,71.452,67.41,55.405123911292,"Country/Area","Africa","Sub-Saharan Africa",""
-"16087","RÃ©union",1978,3.282,28.579,64.14,72.095,68.108,56.9748689932234,"Country/Area","Africa","Sub-Saharan Africa",""
-"16088","RÃ©union",1979,3.116,28.471,64.91,72.779,68.819,59.1706638427606,"Country/Area","Africa","Sub-Saharan Africa",""
-"16089","RÃ©union",1980,2.874,28.441,65.489,73.321,69.372,60.8212719460406,"Country/Area","Africa","Sub-Saharan Africa",""
-"16090","RÃ©union",1981,2.908,28.238,66.197,74.369,70.23,62.9040203124302,"Country/Area","Africa","Sub-Saharan Africa",""
-"16091","RÃ©union",1982,2.596,28.218,66.749,75.269,70.963,63.8986178801782,"Country/Area","Africa","Sub-Saharan Africa",""
-"16092","RÃ©union",1983,2.563,28.095,67.263,75.966,71.571,64.7643577408577,"Country/Area","Africa","Sub-Saharan Africa",""
-"16093","RÃ©union",1984,2.581,28.022,67.876,76.571,72.182,65.6048933422698,"Country/Area","Africa","Sub-Saharan Africa",""
-"16094","RÃ©union",1985,2.51,28.054,68.304,76.951,72.581,66.2914524659595,"Country/Area","Africa","Sub-Saharan Africa",""
-"16095","RÃ©union",1986,2.39,28.108,68.733,77.387,73.009,66.8455054427863,"Country/Area","Africa","Sub-Saharan Africa",""
-"16096","RÃ©union",1987,2.373,28.141,69.005,77.609,73.253,67.1146852086093,"Country/Area","Africa","Sub-Saharan Africa",""
-"16097","RÃ©union",1988,2.364,28.174,69.392,77.981,73.623,67.5945698392642,"Country/Area","Africa","Sub-Saharan Africa",""
-"16098","RÃ©union",1989,2.4,28.207,69.667,78.189,73.857,67.8758591775166,"Country/Area","Africa","Sub-Saharan Africa",""
-"16099","RÃ©union",1990,2.571,28.148,70.01,78.528,74.189,68.374326132497,"Country/Area","Africa","Sub-Saharan Africa",""
-"16100","RÃ©union",1991,2.566,28.046,70.319,78.808,74.473,68.7629503706745,"Country/Area","Africa","Sub-Saharan Africa",""
-"16101","RÃ©union",1992,2.545,27.944,70.674,79.088,74.787,69.186439212342,"Country/Area","Africa","Sub-Saharan Africa",""
-"16102","RÃ©union",1993,2.386,27.838,70.98,79.289,75.037,69.4667552633811,"Country/Area","Africa","Sub-Saharan Africa",""
-"16103","RÃ©union",1994,2.329,28.143,71.372,79.649,75.409,70.0272928892374,"Country/Area","Africa","Sub-Saharan Africa",""
-"16104","RÃ©union",1995,2.272,28.269,71.686,79.95,75.711,70.4366920287923,"Country/Area","Africa","Sub-Saharan Africa",""
-"16105","RÃ©union",1996,2.256,28.481,72.016,80.262,76.028,70.8605362532934,"Country/Area","Africa","Sub-Saharan Africa",""
-"16106","RÃ©union",1997,2.343,29.031,72.347,80.558,76.338,71.2777222530932,"Country/Area","Africa","Sub-Saharan Africa",""
-"16107","RÃ©union",1998,2.312,28.704,72.676,80.777,76.621,71.6469786921039,"Country/Area","Africa","Sub-Saharan Africa",""
-"16108","RÃ©union",1999,2.337,28.581,72.923,80.957,76.84,71.928359049879,"Country/Area","Africa","Sub-Saharan Africa",""
-"16109","RÃ©union",2000,2.499,28.586,73.107,81.1,77.009,72.1258989551525,"Country/Area","Africa","Sub-Saharan Africa",""
-"16110","RÃ©union",2001,2.451,28.564,73.232,81.251,77.145,72.3369090952031,"Country/Area","Africa","Sub-Saharan Africa",""
-"16111","RÃ©union",2002,2.411,28.645,73.45,81.437,77.352,72.6331988124181,"Country/Area","Africa","Sub-Saharan Africa",""
-"16112","RÃ©union",2003,2.429,28.695,73.71,81.576,77.563,72.8504118972258,"Country/Area","Africa","Sub-Saharan Africa",""
-"16113","RÃ©union",2004,2.451,28.824,73.98,81.654,77.749,73.0568061816831,"Country/Area","Africa","Sub-Saharan Africa",""
-"16114","RÃ©union",2005,2.486,28.468,74.217,81.723,77.953,73.2295717902666,"Country/Area","Africa","Sub-Saharan Africa",""
-"16115","RÃ©union",2006,2.443,28.373,74.607,81.99,78.344,73.6504679098651,"Country/Area","Africa","Sub-Saharan Africa",""
-"16116","RÃ©union",2007,2.468,28.389,75.201,82.483,78.93,74.1695482336721,"Country/Area","Africa","Sub-Saharan Africa",""
-"16117","RÃ©union",2008,2.466,28.528,75.778,83.023,79.502,74.7340909951712,"Country/Area","Africa","Sub-Saharan Africa",""
-"16118","RÃ©union",2009,2.366,28.67,76.342,83.501,80.035,75.3116647556428,"Country/Area","Africa","Sub-Saharan Africa",""
-"16119","RÃ©union",2010,2.189,28.835,76.895,83.807,80.474,75.8317667810479,"Country/Area","Africa","Sub-Saharan Africa",""
-"16120","RÃ©union",2011,2.189,28.98,77.548,84.123,80.973,76.3852739211173,"Country/Area","Africa","Sub-Saharan Africa",""
-"16121","RÃ©union",2012,2.229,29.04,78.027,84.381,81.349,76.7957686404502,"Country/Area","Africa","Sub-Saharan Africa",""
-"16122","RÃ©union",2013,2.215,29.1,78.314,84.644,81.62,77.1565864432763,"Country/Area","Africa","Sub-Saharan Africa",""
-"16123","RÃ©union",2014,2.237,29.215,78.488,84.803,81.776,77.3777793950248,"Country/Area","Africa","Sub-Saharan Africa",""
-"16124","RÃ©union",2015,2.235,29.345,78.654,84.916,81.912,77.5814438830738,"Country/Area","Africa","Sub-Saharan Africa",""
-"16125","RÃ©union",2016,2.219,29.422,78.817,84.972,82.028,77.7433941509399,"Country/Area","Africa","Sub-Saharan Africa",""
-"16126","RÃ©union",2017,2.226,29.581,78.973,85.006,82.127,77.937914715163,"Country/Area","Africa","Sub-Saharan Africa",""
-"16127","RÃ©union",2018,2.165,29.797,78.94,85.235,82.198,77.9989472078147,"Country/Area","Africa","Sub-Saharan Africa",""
-"16128","RÃ©union",2019,2.133,30.006,78.988,85.41,82.318,78.23730795587,"Country/Area","Africa","Sub-Saharan Africa",""
-"16129","RÃ©union",2020,2.146,30.146,79.495,85.41,82.576,78.2482838879599,"Country/Area","Africa","Sub-Saharan Africa",""
-"16130","RÃ©union",2021,2.19,30.35,78.418,84.455,81.5,77.0891932587777,"Country/Area","Africa","Sub-Saharan Africa",""
-"16131","RÃ©union",2022,2.187,30.354,78.502,84.327,81.5,77.379517969065,"Country/Area","Africa","Sub-Saharan Africa",""
-"16132","RÃ©union",2023,2.174,30.374,80.531,86.333,83.547,79.6055047372001,"Country/Area","Africa","Sub-Saharan Africa",""
+"16059","Réunion",1950,6.963,30.534,44.634,50.21,47.56,19.9731460496252,NA,NA,NA,NA
+"16060","Réunion",1951,6.967,30.539,45.6,51.387,48.648,21.2286700974344,NA,NA,NA,NA
+"16061","Réunion",1952,6.917,30.543,46.954,52.913,50.108,23.0784414229359,NA,NA,NA,NA
+"16062","Réunion",1953,6.884,30.488,48.239,54.301,51.465,24.9244579339346,NA,NA,NA,NA
+"16063","Réunion",1954,6.738,30.53,49.785,55.756,52.991,26.9807250064679,NA,NA,NA,NA
+"16064","Réunion",1955,6.766,30.596,50.914,56.808,54.087,28.6635420821699,NA,NA,NA,NA
+"16065","Réunion",1956,6.596,30.551,51.742,57.57,54.881,29.8282669368014,NA,NA,NA,NA
+"16066","Réunion",1957,6.531,30.538,51.751,57.645,54.898,29.9013814785432,NA,NA,NA,NA
+"16067","Réunion",1958,6.177,30.407,52.118,58.086,55.293,30.5108398854257,NA,NA,NA,NA
+"16068","Réunion",1959,6.106,30.385,52.934,59.027,56.175,31.8742462836588,NA,NA,NA,NA
+"16069","Réunion",1960,6.105,30.304,54.2,60.714,57.662,34.2618392029553,NA,NA,NA,NA
+"16070","Réunion",1961,6.056,30.27,55.129,61.999,58.758,36.2708081785413,NA,NA,NA,NA
+"16071","Réunion",1962,6.168,30.297,55.668,62.787,59.394,37.7147962402831,NA,NA,NA,NA
+"16072","Réunion",1963,6.272,30.409,56.109,63.274,59.836,38.6782576634631,NA,NA,NA,NA
+"16073","Réunion",1964,6.172,30.348,56.616,63.72,60.313,39.3259351420509,NA,NA,NA,NA
+"16074","Réunion",1965,6.152,30.285,57.217,64.413,60.974,40.0354242562201,NA,NA,NA,NA
+"16075","Réunion",1966,5.979,30.131,57.707,64.835,61.434,40.6491666117455,NA,NA,NA,NA
+"16076","Réunion",1967,5.672,29.98,58.305,65.572,62.089,42.0035198049077,NA,NA,NA,NA
+"16077","Réunion",1968,5.458,29.936,58.615,65.982,62.395,43.272370987716,NA,NA,NA,NA
+"16078","Réunion",1969,5.045,29.747,58.96,66.596,62.852,44.4136085459448,NA,NA,NA,NA
+"16079","Réunion",1970,4.299,29.424,59.226,67.055,63.204,45.2769160304553,NA,NA,NA,NA
+"16080","Réunion",1971,4.038,29.298,59.661,67.654,63.729,46.1715914263837,NA,NA,NA,NA
+"16081","Réunion",1972,3.922,29.192,60.099,68.269,64.245,47.3914486678158,NA,NA,NA,NA
+"16082","Réunion",1973,3.813,29.091,60.627,68.859,64.774,48.8852914366936,NA,NA,NA,NA
+"16083","Réunion",1974,3.727,28.989,61.212,69.489,65.354,50.4960579637835,NA,NA,NA,NA
+"16084","Réunion",1975,3.647,28.903,61.911,70.156,66.019,52.2587909590062,NA,NA,NA,NA
+"16085","Réunion",1976,3.529,28.789,62.621,70.806,66.698,53.8171895052942,NA,NA,NA,NA
+"16086","Réunion",1977,3.414,28.692,63.393,71.452,67.41,55.405123911292,NA,NA,NA,NA
+"16087","Réunion",1978,3.282,28.579,64.14,72.095,68.108,56.9748689932234,NA,NA,NA,NA
+"16088","Réunion",1979,3.116,28.471,64.91,72.779,68.819,59.1706638427606,NA,NA,NA,NA
+"16089","Réunion",1980,2.874,28.441,65.489,73.321,69.372,60.8212719460406,NA,NA,NA,NA
+"16090","Réunion",1981,2.908,28.238,66.197,74.369,70.23,62.9040203124302,NA,NA,NA,NA
+"16091","Réunion",1982,2.596,28.218,66.749,75.269,70.963,63.8986178801782,NA,NA,NA,NA
+"16092","Réunion",1983,2.563,28.095,67.263,75.966,71.571,64.7643577408577,NA,NA,NA,NA
+"16093","Réunion",1984,2.581,28.022,67.876,76.571,72.182,65.6048933422698,NA,NA,NA,NA
+"16094","Réunion",1985,2.51,28.054,68.304,76.951,72.581,66.2914524659595,NA,NA,NA,NA
+"16095","Réunion",1986,2.39,28.108,68.733,77.387,73.009,66.8455054427863,NA,NA,NA,NA
+"16096","Réunion",1987,2.373,28.141,69.005,77.609,73.253,67.1146852086093,NA,NA,NA,NA
+"16097","Réunion",1988,2.364,28.174,69.392,77.981,73.623,67.5945698392642,NA,NA,NA,NA
+"16098","Réunion",1989,2.4,28.207,69.667,78.189,73.857,67.8758591775166,NA,NA,NA,NA
+"16099","Réunion",1990,2.571,28.148,70.01,78.528,74.189,68.374326132497,NA,NA,NA,NA
+"16100","Réunion",1991,2.566,28.046,70.319,78.808,74.473,68.7629503706745,NA,NA,NA,NA
+"16101","Réunion",1992,2.545,27.944,70.674,79.088,74.787,69.186439212342,NA,NA,NA,NA
+"16102","Réunion",1993,2.386,27.838,70.98,79.289,75.037,69.4667552633811,NA,NA,NA,NA
+"16103","Réunion",1994,2.329,28.143,71.372,79.649,75.409,70.0272928892374,NA,NA,NA,NA
+"16104","Réunion",1995,2.272,28.269,71.686,79.95,75.711,70.4366920287923,NA,NA,NA,NA
+"16105","Réunion",1996,2.256,28.481,72.016,80.262,76.028,70.8605362532934,NA,NA,NA,NA
+"16106","Réunion",1997,2.343,29.031,72.347,80.558,76.338,71.2777222530932,NA,NA,NA,NA
+"16107","Réunion",1998,2.312,28.704,72.676,80.777,76.621,71.6469786921039,NA,NA,NA,NA
+"16108","Réunion",1999,2.337,28.581,72.923,80.957,76.84,71.928359049879,NA,NA,NA,NA
+"16109","Réunion",2000,2.499,28.586,73.107,81.1,77.009,72.1258989551525,NA,NA,NA,NA
+"16110","Réunion",2001,2.451,28.564,73.232,81.251,77.145,72.3369090952031,NA,NA,NA,NA
+"16111","Réunion",2002,2.411,28.645,73.45,81.437,77.352,72.6331988124181,NA,NA,NA,NA
+"16112","Réunion",2003,2.429,28.695,73.71,81.576,77.563,72.8504118972258,NA,NA,NA,NA
+"16113","Réunion",2004,2.451,28.824,73.98,81.654,77.749,73.0568061816831,NA,NA,NA,NA
+"16114","Réunion",2005,2.486,28.468,74.217,81.723,77.953,73.2295717902666,NA,NA,NA,NA
+"16115","Réunion",2006,2.443,28.373,74.607,81.99,78.344,73.6504679098651,NA,NA,NA,NA
+"16116","Réunion",2007,2.468,28.389,75.201,82.483,78.93,74.1695482336721,NA,NA,NA,NA
+"16117","Réunion",2008,2.466,28.528,75.778,83.023,79.502,74.7340909951712,NA,NA,NA,NA
+"16118","Réunion",2009,2.366,28.67,76.342,83.501,80.035,75.3116647556428,NA,NA,NA,NA
+"16119","Réunion",2010,2.189,28.835,76.895,83.807,80.474,75.8317667810479,NA,NA,NA,NA
+"16120","Réunion",2011,2.189,28.98,77.548,84.123,80.973,76.3852739211173,NA,NA,NA,NA
+"16121","Réunion",2012,2.229,29.04,78.027,84.381,81.349,76.7957686404502,NA,NA,NA,NA
+"16122","Réunion",2013,2.215,29.1,78.314,84.644,81.62,77.1565864432763,NA,NA,NA,NA
+"16123","Réunion",2014,2.237,29.215,78.488,84.803,81.776,77.3777793950248,NA,NA,NA,NA
+"16124","Réunion",2015,2.235,29.345,78.654,84.916,81.912,77.5814438830738,NA,NA,NA,NA
+"16125","Réunion",2016,2.219,29.422,78.817,84.972,82.028,77.7433941509399,NA,NA,NA,NA
+"16126","Réunion",2017,2.226,29.581,78.973,85.006,82.127,77.937914715163,NA,NA,NA,NA
+"16127","Réunion",2018,2.165,29.797,78.94,85.235,82.198,77.9989472078147,NA,NA,NA,NA
+"16128","Réunion",2019,2.133,30.006,78.988,85.41,82.318,78.23730795587,NA,NA,NA,NA
+"16129","Réunion",2020,2.146,30.146,79.495,85.41,82.576,78.2482838879599,NA,NA,NA,NA
+"16130","Réunion",2021,2.19,30.35,78.418,84.455,81.5,77.0891932587777,NA,NA,NA,NA
+"16131","Réunion",2022,2.187,30.354,78.502,84.327,81.5,77.379517969065,NA,NA,NA,NA
+"16132","Réunion",2023,2.174,30.374,80.531,86.333,83.547,79.6055047372001,NA,NA,NA,NA
 "16133","SIDS Atlantic, Indian Ocean and South China Sea (AIS)",1950,6.075,29.297,44.691,49.143,46.815,21.3999833226935,NA,NA,NA,NA
 "16134","SIDS Atlantic, Indian Ocean and South China Sea (AIS)",1951,6.088,29.303,45.27,49.569,47.324,22.1443095338479,NA,NA,NA,NA
 "16135","SIDS Atlantic, Indian Ocean and South China Sea (AIS)",1952,6.1,29.308,46.124,50.497,48.204,23.1203293889251,NA,NA,NA,NA
@@ -16353,80 +16353,80 @@
 "16352","SIDS Pacific",2021,3.103,29.246,63.451,68.641,65.813,52.7082305816887,NA,NA,NA,NA
 "16353","SIDS Pacific",2022,3.053,29.222,64.628,69.789,66.993,53.7734792082903,NA,NA,NA,NA
 "16354","SIDS Pacific",2023,2.994,29.205,65.332,70.407,67.672,54.4659061806179,NA,NA,NA,NA
-"16355","Saint BarthÃ©lemy",1950,3.221,29.724,52.347,55.597,53.969,29.8899067630072,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16356","Saint BarthÃ©lemy",1951,3.191,29.771,53.478,56.577,55.034,31.3137408846683,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16357","Saint BarthÃ©lemy",1952,3.161,29.807,55.187,57.969,56.594,33.481030911443,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16358","Saint BarthÃ©lemy",1953,3.122,29.825,56.282,58.818,57.569,34.8867165275993,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16359","Saint BarthÃ©lemy",1954,3.08,29.847,57.006,59.377,58.213,35.8411771295485,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16360","Saint BarthÃ©lemy",1955,3.044,29.879,57.336,59.671,58.524,36.3103953296841,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16361","Saint BarthÃ©lemy",1956,3,29.899,57.905,60.026,58.989,37.0211603769021,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16362","Saint BarthÃ©lemy",1957,2.954,29.917,58.266,60.344,59.328,37.5421806604824,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16363","Saint BarthÃ©lemy",1958,2.907,29.937,58.454,60.722,59.611,37.9806453337525,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16364","Saint BarthÃ©lemy",1959,2.867,29.956,58.675,61.061,59.891,38.4163008372792,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16365","Saint BarthÃ©lemy",1960,2.802,29.976,58.986,61.2,60.119,38.779891103289,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16366","Saint BarthÃ©lemy",1961,2.745,29.987,59.409,61.667,60.562,39.4842366966136,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16367","Saint BarthÃ©lemy",1962,2.675,29.975,59.94,62.047,61.017,40.2234979286002,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16368","Saint BarthÃ©lemy",1963,2.599,29.96,60.024,62.051,61.056,40.2906411721729,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16369","Saint BarthÃ©lemy",1964,2.523,29.917,60.524,62.521,61.537,41.0912351592243,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16370","Saint BarthÃ©lemy",1965,2.444,29.857,60.711,63.223,61.987,41.8615346080425,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16371","Saint BarthÃ©lemy",1966,2.365,29.779,60.575,63.618,62.12,42.1004479532745,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16372","Saint BarthÃ©lemy",1967,2.288,29.677,60.733,64.315,62.532,42.7920774716409,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16373","Saint BarthÃ©lemy",1968,2.219,29.553,61.843,65.487,63.676,44.8255857642673,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16374","Saint BarthÃ©lemy",1969,2.154,29.421,62.664,66.318,64.501,46.3457146501901,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16375","Saint BarthÃ©lemy",1970,2.089,29.277,63.494,67.059,65.283,47.8364834554944,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16376","Saint BarthÃ©lemy",1971,2.023,29.125,64.398,67.929,66.164,49.5562627229077,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16377","Saint BarthÃ©lemy",1972,1.959,28.975,65.039,68.727,66.873,50.9684411862412,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16378","Saint BarthÃ©lemy",1973,1.895,28.827,65.365,69.513,67.414,52.0529131735036,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16379","Saint BarthÃ©lemy",1974,1.815,28.7,65.732,70.645,68.142,53.4934428281358,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16380","Saint BarthÃ©lemy",1975,1.667,28.616,66.13,71.878,68.925,55.0379745940929,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16381","Saint BarthÃ©lemy",1976,1.51,28.564,66.49,73.138,69.688,56.4891911474138,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16382","Saint BarthÃ©lemy",1977,1.405,28.501,66.816,74.397,70.424,57.8227084666937,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16383","Saint BarthÃ©lemy",1978,1.362,28.415,67.128,75.6,71.12,59.0392734724544,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16384","Saint BarthÃ©lemy",1979,1.374,28.349,67.477,76.505,71.696,60.0464792992863,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16385","Saint BarthÃ©lemy",1980,1.437,28.266,68.162,77.197,72.363,61.3208082166262,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16386","Saint BarthÃ©lemy",1981,1.54,28.296,68.666,77.742,72.87,62.2679172720664,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16387","Saint BarthÃ©lemy",1982,1.63,28.363,69.129,78.222,73.326,63.1114324269513,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16388","Saint BarthÃ©lemy",1983,1.615,28.467,69.457,78.649,73.525,63.6257187274758,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16389","Saint BarthÃ©lemy",1984,1.589,28.586,69.815,79.135,73.831,64.256192692221,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16390","Saint BarthÃ©lemy",1985,1.564,28.767,69.912,79.595,74.008,64.5684630497866,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16391","Saint BarthÃ©lemy",1986,1.536,29.009,70.264,80.049,74.342,65.2011353477008,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16392","Saint BarthÃ©lemy",1987,1.509,28.885,70.594,80.498,74.667,65.8080350148779,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16393","Saint BarthÃ©lemy",1988,1.472,28.819,71.008,80.829,75.011,66.4702354763371,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16394","Saint BarthÃ©lemy",1989,1.436,28.786,71.413,81.115,75.343,67.1098997701822,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16395","Saint BarthÃ©lemy",1990,1.411,28.746,71.876,81.382,75.706,67.8135281068912,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16396","Saint BarthÃ©lemy",1991,1.395,28.727,72.281,81.623,76.172,68.5504243515028,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16397","Saint BarthÃ©lemy",1992,1.384,28.801,72.713,81.837,76.624,69.2552303185742,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16398","Saint BarthÃ©lemy",1993,1.374,28.836,73.181,82.086,77.092,69.9749794845576,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16399","Saint BarthÃ©lemy",1994,1.372,28.869,73.513,82.335,77.455,70.5229159666928,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16400","Saint BarthÃ©lemy",1995,1.37,28.902,73.793,82.588,77.782,71.0105199297527,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16401","Saint BarthÃ©lemy",1996,1.369,28.934,74.028,82.857,78.063,71.4370503348007,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16402","Saint BarthÃ©lemy",1997,1.373,28.968,74.306,83.127,78.388,71.9197680448119,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16403","Saint BarthÃ©lemy",1998,1.393,28.953,74.578,83.396,78.725,72.4082483518865,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16404","Saint BarthÃ©lemy",1999,1.436,28.99,74.845,83.663,79.071,72.8952299132599,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16405","Saint BarthÃ©lemy",2000,1.491,28.958,75.119,83.928,79.341,73.3184050760323,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16406","Saint BarthÃ©lemy",2001,1.524,29.009,75.411,84.19,79.623,73.7408365558483,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16407","Saint BarthÃ©lemy",2002,1.538,29.035,75.699,84.448,79.903,74.1588629646608,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16408","Saint BarthÃ©lemy",2003,1.524,29.123,75.984,84.704,80.18,74.5683454285285,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16409","Saint BarthÃ©lemy",2004,1.514,29.174,76.266,85.084,80.503,75.0389700647242,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16410","Saint BarthÃ©lemy",2005,1.49,29.181,76.542,85.483,80.821,75.5048417499948,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16411","Saint BarthÃ©lemy",2006,1.45,29.224,76.811,85.877,81.132,75.9562514328813,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16412","Saint BarthÃ©lemy",2007,1.4,29.273,77.049,86.287,81.424,76.3788485441301,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16413","Saint BarthÃ©lemy",2008,1.34,29.332,77.247,86.643,81.66,76.7244476127077,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16414","Saint BarthÃ©lemy",2009,1.288,29.403,77.359,86.793,81.757,76.8746683546874,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16415","Saint BarthÃ©lemy",2010,1.252,29.489,77.532,86.937,81.881,77.0705827760668,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16416","Saint BarthÃ©lemy",2011,1.243,29.487,77.71,87.07,82.069,77.3224722031961,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16417","Saint BarthÃ©lemy",2012,1.245,29.515,77.932,87.142,82.323,77.6358500819408,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16418","Saint BarthÃ©lemy",2013,1.09,29.774,78.063,87.186,82.482,77.8244173426653,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16419","Saint BarthÃ©lemy",2014,0.928,30.154,78.355,87.332,82.793,78.2263840494025,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16420","Saint BarthÃ©lemy",2015,1.052,29.919,78.502,87.488,82.971,78.4610795646749,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16421","Saint BarthÃ©lemy",2016,0.966,30.123,78.738,87.588,83.154,78.7052476515767,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16422","Saint BarthÃ©lemy",2017,0.809,30.407,77.901,85.495,81.756,75.3302939989151,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16423","Saint BarthÃ©lemy",2018,0.706,30.595,79.474,87.684,83.604,79.3357268694748,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16424","Saint BarthÃ©lemy",2019,0.734,30.671,79.948,87.571,83.824,79.6598650661248,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16425","Saint BarthÃ©lemy",2020,0.758,30.67,80.551,87.328,84.071,80.004293340505,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16426","Saint BarthÃ©lemy",2021,0.777,30.747,80.97,87.099,84.188,80.1840194164046,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16427","Saint BarthÃ©lemy",2022,0.789,30.654,81.3,86.964,84.281,80.319513085476,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
-"16428","Saint BarthÃ©lemy",2023,0.801,30.659,81.462,86.81,84.29,80.3362769399959,"Country/Area","Latin America and the Caribbean","Latin America and the Caribbean",""
+"16355","Saint Barthélemy",1950,3.221,29.724,52.347,55.597,53.969,29.8899067630072,NA,NA,NA,NA
+"16356","Saint Barthélemy",1951,3.191,29.771,53.478,56.577,55.034,31.3137408846683,NA,NA,NA,NA
+"16357","Saint Barthélemy",1952,3.161,29.807,55.187,57.969,56.594,33.481030911443,NA,NA,NA,NA
+"16358","Saint Barthélemy",1953,3.122,29.825,56.282,58.818,57.569,34.8867165275993,NA,NA,NA,NA
+"16359","Saint Barthélemy",1954,3.08,29.847,57.006,59.377,58.213,35.8411771295485,NA,NA,NA,NA
+"16360","Saint Barthélemy",1955,3.044,29.879,57.336,59.671,58.524,36.3103953296841,NA,NA,NA,NA
+"16361","Saint Barthélemy",1956,3,29.899,57.905,60.026,58.989,37.0211603769021,NA,NA,NA,NA
+"16362","Saint Barthélemy",1957,2.954,29.917,58.266,60.344,59.328,37.5421806604824,NA,NA,NA,NA
+"16363","Saint Barthélemy",1958,2.907,29.937,58.454,60.722,59.611,37.9806453337525,NA,NA,NA,NA
+"16364","Saint Barthélemy",1959,2.867,29.956,58.675,61.061,59.891,38.4163008372792,NA,NA,NA,NA
+"16365","Saint Barthélemy",1960,2.802,29.976,58.986,61.2,60.119,38.779891103289,NA,NA,NA,NA
+"16366","Saint Barthélemy",1961,2.745,29.987,59.409,61.667,60.562,39.4842366966136,NA,NA,NA,NA
+"16367","Saint Barthélemy",1962,2.675,29.975,59.94,62.047,61.017,40.2234979286002,NA,NA,NA,NA
+"16368","Saint Barthélemy",1963,2.599,29.96,60.024,62.051,61.056,40.2906411721729,NA,NA,NA,NA
+"16369","Saint Barthélemy",1964,2.523,29.917,60.524,62.521,61.537,41.0912351592243,NA,NA,NA,NA
+"16370","Saint Barthélemy",1965,2.444,29.857,60.711,63.223,61.987,41.8615346080425,NA,NA,NA,NA
+"16371","Saint Barthélemy",1966,2.365,29.779,60.575,63.618,62.12,42.1004479532745,NA,NA,NA,NA
+"16372","Saint Barthélemy",1967,2.288,29.677,60.733,64.315,62.532,42.7920774716409,NA,NA,NA,NA
+"16373","Saint Barthélemy",1968,2.219,29.553,61.843,65.487,63.676,44.8255857642673,NA,NA,NA,NA
+"16374","Saint Barthélemy",1969,2.154,29.421,62.664,66.318,64.501,46.3457146501901,NA,NA,NA,NA
+"16375","Saint Barthélemy",1970,2.089,29.277,63.494,67.059,65.283,47.8364834554944,NA,NA,NA,NA
+"16376","Saint Barthélemy",1971,2.023,29.125,64.398,67.929,66.164,49.5562627229077,NA,NA,NA,NA
+"16377","Saint Barthélemy",1972,1.959,28.975,65.039,68.727,66.873,50.9684411862412,NA,NA,NA,NA
+"16378","Saint Barthélemy",1973,1.895,28.827,65.365,69.513,67.414,52.0529131735036,NA,NA,NA,NA
+"16379","Saint Barthélemy",1974,1.815,28.7,65.732,70.645,68.142,53.4934428281358,NA,NA,NA,NA
+"16380","Saint Barthélemy",1975,1.667,28.616,66.13,71.878,68.925,55.0379745940929,NA,NA,NA,NA
+"16381","Saint Barthélemy",1976,1.51,28.564,66.49,73.138,69.688,56.4891911474138,NA,NA,NA,NA
+"16382","Saint Barthélemy",1977,1.405,28.501,66.816,74.397,70.424,57.8227084666937,NA,NA,NA,NA
+"16383","Saint Barthélemy",1978,1.362,28.415,67.128,75.6,71.12,59.0392734724544,NA,NA,NA,NA
+"16384","Saint Barthélemy",1979,1.374,28.349,67.477,76.505,71.696,60.0464792992863,NA,NA,NA,NA
+"16385","Saint Barthélemy",1980,1.437,28.266,68.162,77.197,72.363,61.3208082166262,NA,NA,NA,NA
+"16386","Saint Barthélemy",1981,1.54,28.296,68.666,77.742,72.87,62.2679172720664,NA,NA,NA,NA
+"16387","Saint Barthélemy",1982,1.63,28.363,69.129,78.222,73.326,63.1114324269513,NA,NA,NA,NA
+"16388","Saint Barthélemy",1983,1.615,28.467,69.457,78.649,73.525,63.6257187274758,NA,NA,NA,NA
+"16389","Saint Barthélemy",1984,1.589,28.586,69.815,79.135,73.831,64.256192692221,NA,NA,NA,NA
+"16390","Saint Barthélemy",1985,1.564,28.767,69.912,79.595,74.008,64.5684630497866,NA,NA,NA,NA
+"16391","Saint Barthélemy",1986,1.536,29.009,70.264,80.049,74.342,65.2011353477008,NA,NA,NA,NA
+"16392","Saint Barthélemy",1987,1.509,28.885,70.594,80.498,74.667,65.8080350148779,NA,NA,NA,NA
+"16393","Saint Barthélemy",1988,1.472,28.819,71.008,80.829,75.011,66.4702354763371,NA,NA,NA,NA
+"16394","Saint Barthélemy",1989,1.436,28.786,71.413,81.115,75.343,67.1098997701822,NA,NA,NA,NA
+"16395","Saint Barthélemy",1990,1.411,28.746,71.876,81.382,75.706,67.8135281068912,NA,NA,NA,NA
+"16396","Saint Barthélemy",1991,1.395,28.727,72.281,81.623,76.172,68.5504243515028,NA,NA,NA,NA
+"16397","Saint Barthélemy",1992,1.384,28.801,72.713,81.837,76.624,69.2552303185742,NA,NA,NA,NA
+"16398","Saint Barthélemy",1993,1.374,28.836,73.181,82.086,77.092,69.9749794845576,NA,NA,NA,NA
+"16399","Saint Barthélemy",1994,1.372,28.869,73.513,82.335,77.455,70.5229159666928,NA,NA,NA,NA
+"16400","Saint Barthélemy",1995,1.37,28.902,73.793,82.588,77.782,71.0105199297527,NA,NA,NA,NA
+"16401","Saint Barthélemy",1996,1.369,28.934,74.028,82.857,78.063,71.4370503348007,NA,NA,NA,NA
+"16402","Saint Barthélemy",1997,1.373,28.968,74.306,83.127,78.388,71.9197680448119,NA,NA,NA,NA
+"16403","Saint Barthélemy",1998,1.393,28.953,74.578,83.396,78.725,72.4082483518865,NA,NA,NA,NA
+"16404","Saint Barthélemy",1999,1.436,28.99,74.845,83.663,79.071,72.8952299132599,NA,NA,NA,NA
+"16405","Saint Barthélemy",2000,1.491,28.958,75.119,83.928,79.341,73.3184050760323,NA,NA,NA,NA
+"16406","Saint Barthélemy",2001,1.524,29.009,75.411,84.19,79.623,73.7408365558483,NA,NA,NA,NA
+"16407","Saint Barthélemy",2002,1.538,29.035,75.699,84.448,79.903,74.1588629646608,NA,NA,NA,NA
+"16408","Saint Barthélemy",2003,1.524,29.123,75.984,84.704,80.18,74.5683454285285,NA,NA,NA,NA
+"16409","Saint Barthélemy",2004,1.514,29.174,76.266,85.084,80.503,75.0389700647242,NA,NA,NA,NA
+"16410","Saint Barthélemy",2005,1.49,29.181,76.542,85.483,80.821,75.5048417499948,NA,NA,NA,NA
+"16411","Saint Barthélemy",2006,1.45,29.224,76.811,85.877,81.132,75.9562514328813,NA,NA,NA,NA
+"16412","Saint Barthélemy",2007,1.4,29.273,77.049,86.287,81.424,76.3788485441301,NA,NA,NA,NA
+"16413","Saint Barthélemy",2008,1.34,29.332,77.247,86.643,81.66,76.7244476127077,NA,NA,NA,NA
+"16414","Saint Barthélemy",2009,1.288,29.403,77.359,86.793,81.757,76.8746683546874,NA,NA,NA,NA
+"16415","Saint Barthélemy",2010,1.252,29.489,77.532,86.937,81.881,77.0705827760668,NA,NA,NA,NA
+"16416","Saint Barthélemy",2011,1.243,29.487,77.71,87.07,82.069,77.3224722031961,NA,NA,NA,NA
+"16417","Saint Barthélemy",2012,1.245,29.515,77.932,87.142,82.323,77.6358500819408,NA,NA,NA,NA
+"16418","Saint Barthélemy",2013,1.09,29.774,78.063,87.186,82.482,77.8244173426653,NA,NA,NA,NA
+"16419","Saint Barthélemy",2014,0.928,30.154,78.355,87.332,82.793,78.2263840494025,NA,NA,NA,NA
+"16420","Saint Barthélemy",2015,1.052,29.919,78.502,87.488,82.971,78.4610795646749,NA,NA,NA,NA
+"16421","Saint Barthélemy",2016,0.966,30.123,78.738,87.588,83.154,78.7052476515767,NA,NA,NA,NA
+"16422","Saint Barthélemy",2017,0.809,30.407,77.901,85.495,81.756,75.3302939989151,NA,NA,NA,NA
+"16423","Saint Barthélemy",2018,0.706,30.595,79.474,87.684,83.604,79.3357268694748,NA,NA,NA,NA
+"16424","Saint Barthélemy",2019,0.734,30.671,79.948,87.571,83.824,79.6598650661248,NA,NA,NA,NA
+"16425","Saint Barthélemy",2020,0.758,30.67,80.551,87.328,84.071,80.004293340505,NA,NA,NA,NA
+"16426","Saint Barthélemy",2021,0.777,30.747,80.97,87.099,84.188,80.1840194164046,NA,NA,NA,NA
+"16427","Saint Barthélemy",2022,0.789,30.654,81.3,86.964,84.281,80.319513085476,NA,NA,NA,NA
+"16428","Saint Barthélemy",2023,0.801,30.659,81.462,86.81,84.29,80.3362769399959,NA,NA,NA,NA
 "16429","Saint Helena",1950,5.621,28.066,64.338,67.874,66.009,49.3571596981003,"Country/Area","Africa","Sub-Saharan Africa",""
 "16430","Saint Helena",1951,5.582,28.052,64.472,68.145,66.231,49.762695185135,"Country/Area","Africa","Sub-Saharan Africa",""
 "16431","Saint Helena",1952,5.537,28.027,64.587,68.387,66.43,50.1241581956802,"Country/Area","Africa","Sub-Saharan Africa",""
@@ -19979,80 +19979,80 @@
 "19978","Tuvalu",2021,3.277,29.111,62.433,69.601,65.824,56.6872341674697,"Country/Area","Oceania","Oceania (excluding Australia and New Zealand)",""
 "19979","Tuvalu",2022,3.244,29.19,63.547,70.412,66.852,57.8260220654318,"Country/Area","Oceania","Oceania (excluding Australia and New Zealand)",""
 "19980","Tuvalu",2023,3.208,29.192,63.765,70.698,67.105,58.2703047112897,"Country/Area","Oceania","Oceania (excluding Australia and New Zealand)",""
-"19981","TÃ¼rkiye",1950,6.468,28.111,44.232,50.413,47.292,15.0523519958411,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19982","TÃ¼rkiye",1951,6.468,28.088,44.608,50.67,47.604,15.4074469638227,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19983","TÃ¼rkiye",1952,6.47,28.064,45.136,51.196,48.121,15.879639677314,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19984","TÃ¼rkiye",1953,6.477,28.04,45.345,51.145,48.201,16.0353387240512,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19985","TÃ¼rkiye",1954,6.468,28.011,45.932,51.786,48.802,16.5343538542967,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19986","TÃ¼rkiye",1955,6.463,27.983,46.23,52.032,49.062,16.8883847070897,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19987","TÃ¼rkiye",1956,6.463,27.953,46.673,52.432,49.474,17.3089306926155,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19988","TÃ¼rkiye",1957,6.454,27.929,46.421,52.235,49.225,17.5460501010323,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19989","TÃ¼rkiye",1958,6.434,27.911,46.404,52.303,49.228,17.8930156429701,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19990","TÃ¼rkiye",1959,6.416,27.884,47.392,53.13,50.137,18.619910610697,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19991","TÃ¼rkiye",1960,6.383,27.892,48.044,53.822,50.799,19.2362942152641,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19992","TÃ¼rkiye",1961,6.419,27.881,48.796,54.605,51.558,19.9641467732385,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19993","TÃ¼rkiye",1962,6.382,27.896,49.626,55.338,52.347,20.7674665427508,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19994","TÃ¼rkiye",1963,6.339,27.925,50.308,56.234,53.12,21.5808348481317,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19995","TÃ¼rkiye",1964,6.291,27.962,50.757,56.773,53.6,22.3136455972761,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19996","TÃ¼rkiye",1965,6.22,28.004,51.27,57.283,54.105,23.0559031331974,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19997","TÃ¼rkiye",1966,6.152,28.02,51.748,57.744,54.57,23.7649214453912,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19998","TÃ¼rkiye",1967,6.057,28.018,52.363,58.379,55.183,24.5888432255149,"Country/Area","Asia","Northern Africa and Western Asia",""
-"19999","TÃ¼rkiye",1968,5.962,28.014,52.757,58.954,55.639,25.3139396623636,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20000","TÃ¼rkiye",1969,5.872,27.987,53.297,59.524,56.179,26.0902088678421,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20001","TÃ¼rkiye",1970,5.775,27.957,53.84,60.047,56.702,26.8346799833751,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20002","TÃ¼rkiye",1971,5.671,27.87,54.354,60.603,57.223,27.6246874685935,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20003","TÃ¼rkiye",1972,5.548,27.787,55.101,61.353,57.971,28.5575112178445,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20004","TÃ¼rkiye",1973,5.41,27.704,55.494,61.989,58.455,29.3883522943525,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20005","TÃ¼rkiye",1974,5.243,27.636,56.035,62.6,59.019,30.2862488545923,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20006","TÃ¼rkiye",1975,5.087,27.605,56.54,63.097,59.513,31.1455690160624,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20007","TÃ¼rkiye",1976,4.931,27.528,57.026,63.631,60.014,32.0564818854038,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20008","TÃ¼rkiye",1977,4.784,27.487,57.775,64.546,60.846,33.3116017524571,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20009","TÃ¼rkiye",1978,4.691,27.435,58.453,65.42,61.614,34.490467354107,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20010","TÃ¼rkiye",1979,4.579,27.333,58.997,65.944,62.161,35.5850338279152,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20011","TÃ¼rkiye",1980,4.453,27.292,59.613,66.441,62.739,36.7254728991753,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20012","TÃ¼rkiye",1981,4.351,27.269,60.069,66.85,63.194,37.8472074103165,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20013","TÃ¼rkiye",1982,4.205,27.263,60.634,67.328,63.74,39.0330778348262,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20014","TÃ¼rkiye",1983,4.056,27.245,61.107,67.904,64.269,40.1967953989678,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20015","TÃ¼rkiye",1984,3.911,27.251,61.566,68.53,64.81,41.4506496042796,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20016","TÃ¼rkiye",1985,3.779,27.25,62.08,69.051,65.344,42.5955266941328,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20017","TÃ¼rkiye",1986,3.658,27.24,62.59,69.561,65.87,43.6856299027024,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20018","TÃ¼rkiye",1987,3.542,27.318,63.089,70.047,66.379,44.7677559434669,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20019","TÃ¼rkiye",1988,3.445,27.39,63.56,70.618,66.902,45.8633161797278,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20020","TÃ¼rkiye",1989,3.336,27.492,64.001,71.081,67.365,46.9219601771779,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20021","TÃ¼rkiye",1990,3.107,27.274,64.475,71.519,67.835,47.9951046957334,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20022","TÃ¼rkiye",1991,3.003,27.146,64.917,71.963,68.287,49.0709552396815,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20023","TÃ¼rkiye",1992,2.939,27.261,65.176,72.332,68.603,50.0075493546095,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20024","TÃ¼rkiye",1993,2.916,27.186,65.578,72.739,69.018,51.0821521221664,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20025","TÃ¼rkiye",1994,2.874,27.099,65.94,73.134,69.402,52.1150373784,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20026","TÃ¼rkiye",1995,2.835,27.019,66.216,73.522,69.734,53.0896443510777,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20027","TÃ¼rkiye",1996,2.779,26.945,66.797,73.933,70.245,54.2582340132142,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20028","TÃ¼rkiye",1997,2.744,26.905,67.258,74.303,70.668,55.3337681697202,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20029","TÃ¼rkiye",1998,2.707,26.985,67.816,74.67,71.144,56.4445596413112,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20030","TÃ¼rkiye",1999,2.63,27.042,67.622,74.051,70.752,56.2495832545829,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20031","TÃ¼rkiye",2000,2.487,27.173,68.679,75.365,71.931,58.5177143698874,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20032","TÃ¼rkiye",2001,2.392,27.312,69.034,75.689,72.271,59.4747301351916,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20033","TÃ¼rkiye",2002,2.268,27.375,69.38,76.011,72.605,60.4091369809136,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20034","TÃ¼rkiye",2003,2.202,27.429,69.682,76.319,72.906,61.2914781161408,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20035","TÃ¼rkiye",2004,2.197,27.469,70.037,76.591,73.223,62.1717186890046,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20036","TÃ¼rkiye",2005,2.197,27.486,70.304,76.909,73.51,63.0615838485292,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20037","TÃ¼rkiye",2006,2.193,27.496,70.637,77.158,73.804,63.9639886867693,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20038","TÃ¼rkiye",2007,2.183,27.569,70.975,77.468,74.129,64.8503651259582,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20039","TÃ¼rkiye",2008,2.167,27.582,71.246,77.702,74.38,65.6279786603743,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20040","TÃ¼rkiye",2009,2.145,27.692,71.555,77.997,74.679,66.397456903722,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20041","TÃ¼rkiye",2010,2.08,27.881,71.903,78.212,74.964,67.1211811410672,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20042","TÃ¼rkiye",2011,2.047,27.914,71.758,78.121,74.823,67.3815707761746,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20043","TÃ¼rkiye",2012,2.109,28.101,72.477,78.813,75.552,68.4496724748719,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20044","TÃ¼rkiye",2013,2.107,28.258,73.118,79.365,76.171,69.3811250688738,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20045","TÃ¼rkiye",2014,2.186,28.42,73.443,79.582,76.452,69.9625415242128,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20046","TÃ¼rkiye",2015,2.157,28.555,73.481,79.74,76.539,70.3181242183411,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20047","TÃ¼rkiye",2016,2.115,28.626,73.49,79.858,76.595,70.6104746053292,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20048","TÃ¼rkiye",2017,2.082,28.726,73.957,80.252,77.037,71.2923574933095,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20049","TÃ¼rkiye",2018,2.004,28.867,74.385,80.634,77.454,71.9156742154563,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20050","TÃ¼rkiye",2019,1.886,28.975,74.678,80.89,77.737,72.390914176088,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20051","TÃ¼rkiye",2020,1.768,29.05,73.441,79.887,76.525,71.4989194289414,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20052","TÃ¼rkiye",2021,1.708,29.146,72.719,79.004,75.722,70.869396544699,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20053","TÃ¼rkiye",2022,1.625,29.221,74.655,80.719,77.591,72.8468996806576,"Country/Area","Asia","Northern Africa and Western Asia",""
-"20054","TÃ¼rkiye",2023,1.625,29.217,74.529,79.855,77.156,70.9072041031075,"Country/Area","Asia","Northern Africa and Western Asia",""
+"19981","Türkiye",1950,6.468,28.111,44.232,50.413,47.292,15.0523519958411,NA,NA,NA,NA
+"19982","Türkiye",1951,6.468,28.088,44.608,50.67,47.604,15.4074469638227,NA,NA,NA,NA
+"19983","Türkiye",1952,6.47,28.064,45.136,51.196,48.121,15.879639677314,NA,NA,NA,NA
+"19984","Türkiye",1953,6.477,28.04,45.345,51.145,48.201,16.0353387240512,NA,NA,NA,NA
+"19985","Türkiye",1954,6.468,28.011,45.932,51.786,48.802,16.5343538542967,NA,NA,NA,NA
+"19986","Türkiye",1955,6.463,27.983,46.23,52.032,49.062,16.8883847070897,NA,NA,NA,NA
+"19987","Türkiye",1956,6.463,27.953,46.673,52.432,49.474,17.3089306926155,NA,NA,NA,NA
+"19988","Türkiye",1957,6.454,27.929,46.421,52.235,49.225,17.5460501010323,NA,NA,NA,NA
+"19989","Türkiye",1958,6.434,27.911,46.404,52.303,49.228,17.8930156429701,NA,NA,NA,NA
+"19990","Türkiye",1959,6.416,27.884,47.392,53.13,50.137,18.619910610697,NA,NA,NA,NA
+"19991","Türkiye",1960,6.383,27.892,48.044,53.822,50.799,19.2362942152641,NA,NA,NA,NA
+"19992","Türkiye",1961,6.419,27.881,48.796,54.605,51.558,19.9641467732385,NA,NA,NA,NA
+"19993","Türkiye",1962,6.382,27.896,49.626,55.338,52.347,20.7674665427508,NA,NA,NA,NA
+"19994","Türkiye",1963,6.339,27.925,50.308,56.234,53.12,21.5808348481317,NA,NA,NA,NA
+"19995","Türkiye",1964,6.291,27.962,50.757,56.773,53.6,22.3136455972761,NA,NA,NA,NA
+"19996","Türkiye",1965,6.22,28.004,51.27,57.283,54.105,23.0559031331974,NA,NA,NA,NA
+"19997","Türkiye",1966,6.152,28.02,51.748,57.744,54.57,23.7649214453912,NA,NA,NA,NA
+"19998","Türkiye",1967,6.057,28.018,52.363,58.379,55.183,24.5888432255149,NA,NA,NA,NA
+"19999","Türkiye",1968,5.962,28.014,52.757,58.954,55.639,25.3139396623636,NA,NA,NA,NA
+"20000","Türkiye",1969,5.872,27.987,53.297,59.524,56.179,26.0902088678421,NA,NA,NA,NA
+"20001","Türkiye",1970,5.775,27.957,53.84,60.047,56.702,26.8346799833751,NA,NA,NA,NA
+"20002","Türkiye",1971,5.671,27.87,54.354,60.603,57.223,27.6246874685935,NA,NA,NA,NA
+"20003","Türkiye",1972,5.548,27.787,55.101,61.353,57.971,28.5575112178445,NA,NA,NA,NA
+"20004","Türkiye",1973,5.41,27.704,55.494,61.989,58.455,29.3883522943525,NA,NA,NA,NA
+"20005","Türkiye",1974,5.243,27.636,56.035,62.6,59.019,30.2862488545923,NA,NA,NA,NA
+"20006","Türkiye",1975,5.087,27.605,56.54,63.097,59.513,31.1455690160624,NA,NA,NA,NA
+"20007","Türkiye",1976,4.931,27.528,57.026,63.631,60.014,32.0564818854038,NA,NA,NA,NA
+"20008","Türkiye",1977,4.784,27.487,57.775,64.546,60.846,33.3116017524571,NA,NA,NA,NA
+"20009","Türkiye",1978,4.691,27.435,58.453,65.42,61.614,34.490467354107,NA,NA,NA,NA
+"20010","Türkiye",1979,4.579,27.333,58.997,65.944,62.161,35.5850338279152,NA,NA,NA,NA
+"20011","Türkiye",1980,4.453,27.292,59.613,66.441,62.739,36.7254728991753,NA,NA,NA,NA
+"20012","Türkiye",1981,4.351,27.269,60.069,66.85,63.194,37.8472074103165,NA,NA,NA,NA
+"20013","Türkiye",1982,4.205,27.263,60.634,67.328,63.74,39.0330778348262,NA,NA,NA,NA
+"20014","Türkiye",1983,4.056,27.245,61.107,67.904,64.269,40.1967953989678,NA,NA,NA,NA
+"20015","Türkiye",1984,3.911,27.251,61.566,68.53,64.81,41.4506496042796,NA,NA,NA,NA
+"20016","Türkiye",1985,3.779,27.25,62.08,69.051,65.344,42.5955266941328,NA,NA,NA,NA
+"20017","Türkiye",1986,3.658,27.24,62.59,69.561,65.87,43.6856299027024,NA,NA,NA,NA
+"20018","Türkiye",1987,3.542,27.318,63.089,70.047,66.379,44.7677559434669,NA,NA,NA,NA
+"20019","Türkiye",1988,3.445,27.39,63.56,70.618,66.902,45.8633161797278,NA,NA,NA,NA
+"20020","Türkiye",1989,3.336,27.492,64.001,71.081,67.365,46.9219601771779,NA,NA,NA,NA
+"20021","Türkiye",1990,3.107,27.274,64.475,71.519,67.835,47.9951046957334,NA,NA,NA,NA
+"20022","Türkiye",1991,3.003,27.146,64.917,71.963,68.287,49.0709552396815,NA,NA,NA,NA
+"20023","Türkiye",1992,2.939,27.261,65.176,72.332,68.603,50.0075493546095,NA,NA,NA,NA
+"20024","Türkiye",1993,2.916,27.186,65.578,72.739,69.018,51.0821521221664,NA,NA,NA,NA
+"20025","Türkiye",1994,2.874,27.099,65.94,73.134,69.402,52.1150373784,NA,NA,NA,NA
+"20026","Türkiye",1995,2.835,27.019,66.216,73.522,69.734,53.0896443510777,NA,NA,NA,NA
+"20027","Türkiye",1996,2.779,26.945,66.797,73.933,70.245,54.2582340132142,NA,NA,NA,NA
+"20028","Türkiye",1997,2.744,26.905,67.258,74.303,70.668,55.3337681697202,NA,NA,NA,NA
+"20029","Türkiye",1998,2.707,26.985,67.816,74.67,71.144,56.4445596413112,NA,NA,NA,NA
+"20030","Türkiye",1999,2.63,27.042,67.622,74.051,70.752,56.2495832545829,NA,NA,NA,NA
+"20031","Türkiye",2000,2.487,27.173,68.679,75.365,71.931,58.5177143698874,NA,NA,NA,NA
+"20032","Türkiye",2001,2.392,27.312,69.034,75.689,72.271,59.4747301351916,NA,NA,NA,NA
+"20033","Türkiye",2002,2.268,27.375,69.38,76.011,72.605,60.4091369809136,NA,NA,NA,NA
+"20034","Türkiye",2003,2.202,27.429,69.682,76.319,72.906,61.2914781161408,NA,NA,NA,NA
+"20035","Türkiye",2004,2.197,27.469,70.037,76.591,73.223,62.1717186890046,NA,NA,NA,NA
+"20036","Türkiye",2005,2.197,27.486,70.304,76.909,73.51,63.0615838485292,NA,NA,NA,NA
+"20037","Türkiye",2006,2.193,27.496,70.637,77.158,73.804,63.9639886867693,NA,NA,NA,NA
+"20038","Türkiye",2007,2.183,27.569,70.975,77.468,74.129,64.8503651259582,NA,NA,NA,NA
+"20039","Türkiye",2008,2.167,27.582,71.246,77.702,74.38,65.6279786603743,NA,NA,NA,NA
+"20040","Türkiye",2009,2.145,27.692,71.555,77.997,74.679,66.397456903722,NA,NA,NA,NA
+"20041","Türkiye",2010,2.08,27.881,71.903,78.212,74.964,67.1211811410672,NA,NA,NA,NA
+"20042","Türkiye",2011,2.047,27.914,71.758,78.121,74.823,67.3815707761746,NA,NA,NA,NA
+"20043","Türkiye",2012,2.109,28.101,72.477,78.813,75.552,68.4496724748719,NA,NA,NA,NA
+"20044","Türkiye",2013,2.107,28.258,73.118,79.365,76.171,69.3811250688738,NA,NA,NA,NA
+"20045","Türkiye",2014,2.186,28.42,73.443,79.582,76.452,69.9625415242128,NA,NA,NA,NA
+"20046","Türkiye",2015,2.157,28.555,73.481,79.74,76.539,70.3181242183411,NA,NA,NA,NA
+"20047","Türkiye",2016,2.115,28.626,73.49,79.858,76.595,70.6104746053292,NA,NA,NA,NA
+"20048","Türkiye",2017,2.082,28.726,73.957,80.252,77.037,71.2923574933095,NA,NA,NA,NA
+"20049","Türkiye",2018,2.004,28.867,74.385,80.634,77.454,71.9156742154563,NA,NA,NA,NA
+"20050","Türkiye",2019,1.886,28.975,74.678,80.89,77.737,72.390914176088,NA,NA,NA,NA
+"20051","Türkiye",2020,1.768,29.05,73.441,79.887,76.525,71.4989194289414,NA,NA,NA,NA
+"20052","Türkiye",2021,1.708,29.146,72.719,79.004,75.722,70.869396544699,NA,NA,NA,NA
+"20053","Türkiye",2022,1.625,29.221,74.655,80.719,77.591,72.8468996806576,NA,NA,NA,NA
+"20054","Türkiye",2023,1.625,29.217,74.529,79.855,77.156,70.9072041031075,NA,NA,NA,NA
 "20055","Uganda",1950,6.657,28.769,38.238,41.41,39.707,15.4103905163683,"Country/Area","Africa","Sub-Saharan Africa",""
 "20056","Uganda",1951,6.649,28.768,38.728,41.939,40.219,15.8390877517018,"Country/Area","Africa","Sub-Saharan Africa",""
 "20057","Uganda",1952,6.673,28.768,39.253,42.476,40.754,16.2774915761271,"Country/Area","Africa","Sub-Saharan Africa",""

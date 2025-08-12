@@ -41,7 +41,6 @@ if (analyse) {
   # Save the breakpoint results
   save(breakpoint_results, file="data/breakpoint_results_list.Rda")
   
-  
   # Create the columns
   analysis[, c("nr_breakpoints", paste("breakpoints", 1:4, sep="_"), paste("slopes", 1:5, sep="_"))] <- NA
   
@@ -128,17 +127,11 @@ breakpoints <- analysis |>
   filter(!is.na(HLI)) |> 
   unique()
 
-# Add the breakpoints to the plot
-plot_breakpoints +
-  geom_linerange(data=breakpoints, aes(x=HLI, linetype=breakpoints), ymin=0, ymax=2.1, alpha=0.5)
-
-# Lo
+# Create an object conatining the slopes
 slopes <- analysis |> 
   dplyr::select(region, starts_with("slopes_"), tidyselect::starts_with("breakpoints_"), nr_breakpoints) |> 
   pivot_longer(cols=starts_with("slopes_"), names_to="slopes", names_prefix="slopes_", values_to="slope") |> 
   filter(!is.na(slope)) |> 
   unique()
-
-
 
 ### END ###################################

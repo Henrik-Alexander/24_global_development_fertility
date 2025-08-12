@@ -35,5 +35,7 @@ lapply(folders, FUN = function(x) {
 source("code/01_data_preparation.R")
 source("code/02_descriptives.R")
 source("code/03_clustering.R")
+source("code/04_sequence_analysis.R")
+source("Code/05_parametric_shape.R")
 
 ### END ###############################################

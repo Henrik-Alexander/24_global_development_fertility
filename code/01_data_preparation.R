@@ -144,15 +144,14 @@ if (estimate_tfr) {
   # Rename
   setnames(wpp24,
            old= c("Region, subregion, country or area *", "Total Fertility Rate (live births per woman)", "Mean Age Childbearing (years)", "Male Life Expectancy at Birth (years)", "Female Life Expectancy at Birth (years)", "Life Expectancy at Birth, both sexes (years)"),
-           new=c("region", "tfr", "mac", "e0_m", "e0_f", "e0_b"))
+           new=c("region", "TFR", "mac", "e0_m", "e0_f", "e0_b"))
   
   # Select the important columns
-  wpp24 <- wpp24[, .(region, Year, tfr, mac, e0_m, e0_f, e0_b)]
+  wpp24 <- wpp24[, .(region, Year, TFR, mac, e0_m, e0_f, e0_b)]
   
   # Make the columns numeric
-  numeric_columns <- c("tfr", "mac", "e0_m", "e0_f", "e0_b")
+  numeric_columns <- c("TFR", "mac", "e0_m", "e0_f", "e0_b")
   wpp24[, (numeric_columns) := lapply(.SD, as.numeric), .SDcols=numeric_columns]
-  
   
 }
 
@@ -162,7 +161,7 @@ if (estimate_tfr) {
 analysis <- merge(wpp24, hli_b, by=c("Year", "region"))
 
 # Filter the non-missing observations
-analsis <- na.omit(analysis)
+analysis <- na.omit(analysis)
 
 ## Create indicator for countries -----------------
 
@@ -174,12 +173,12 @@ locations <- locations[, c("Location", "LocTypeName", "GeoRegName", "SDGRegName"
 analysis <- merge(analysis, locations, by.x="region", by.y="Location", all.x=TRUE, all.y=FALSE)
 
 # Remove empty rows
-analysis <- analysis[!is.na(tfr)]
+analysis <- analysis[!is.na(TFR)]
 
 
 ### Create a tempo-adjusted TFR ------------------
 
-analysis[, .(delta_TFR = shift(tfr)-tfr, delta_MAC = shift(mac)-mac), by = .(SDGRegName, region)] %>% 
+analysis[, .(delta_TFR = shift(TFR)-TFR, delta_MAC = shift(mac)-mac), by = .(SDGRegName, region)] %>% 
   ggplot(aes(x=delta_MAC, y=delta_TFR)) +
   geom_hline(yintercept=0) +
   geom_vline(xintercept=0) +
