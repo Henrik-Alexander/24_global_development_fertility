@@ -1,6 +1,6 @@
 # Development and Fertility
 
-Authors: Thomas Spoorenberg, sin Sheng Ma, Henrik-Alexander Schubert
+Authors: Thomas Spoorenberg, Hsin Sheng Ma, Henrik-Alexander Schubert
 
 ## Purpose
 This project seeks to describe the relationship between development and fertility around the globe in the period between 1950 and 2024 around the world using the World Population Prospects 2024.
@@ -34,11 +34,16 @@ This folder contains the raw, unedited data from WPP2024.
 - Locations: UN location names
 - WPP 2024 Summary: [Bundled files](https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/EXCEL_FILES/1_General/WPP2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx)
 
+![Data structure of the raw folder.](raw_data.png)
+
+
+
 ## ./data:
 
 This folder is used for storing the manipulated data created with the ./code files from the raw data under (./raw).
 
 ## ./tables:
+This folder contains the tables.
 
 ## ./figures:
 This folder contains the figures.
